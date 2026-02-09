@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "3dYOxSeqZJTb9uajmq4kqz"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "Extra_Free_Spins",
+      "rect": [
+        3,
+        3,
+        1652,
+        875
+      ],
+      "offset": [
+        -195,
+        71.5
+      ],
+      "originalSize": [
+        2048,
+        1024
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

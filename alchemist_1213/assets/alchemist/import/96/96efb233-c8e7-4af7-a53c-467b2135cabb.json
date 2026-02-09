@@ -1,0 +1,283 @@
+[
+  1,
+  [
+    "4d6fM0UU5Dq6su2Zob5pSn"
+  ],
+  0,
+  [
+    [
+      "sp.SkeletonData",
+      [
+        "_name",
+        "_atlasText",
+        "textureNames",
+        "_skeletonJson",
+        "textures"
+      ],
+      -1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  [
+    [
+      0,
+      "H1",
+      "\nH1.png\nsize: 219,144\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nbig_base\n  rotate: false\n  xy: 2, 2\n  size: 140, 140\n  orig: 142, 142\n  offset: 1, 1\n  index: -1\ncrystal\n  rotate: false\n  xy: 144, 47\n  size: 73, 95\n  orig: 75, 97\n  offset: 1, 1\n  index: -1\n",
+      [
+        "H1.png"
+      ],
+      {
+        "skeleton": {
+          "hash": "fqFMO1rOdE1h5rVUZyHFEJ7ujNk",
+          "spine": "3.8.99",
+          "x": -71,
+          "y": -71,
+          "width": 142,
+          "height": 142,
+          "images": "../icon/images/",
+          "audio": "C:/Users/Sylph/Desktop/bikini_slot"
+        },
+        "bones": [
+          {
+            "name": "root"
+          },
+          {
+            "name": "symbol_6",
+            "parent": "root"
+          }
+        ],
+        "slots": [
+          {
+            "name": "big_base",
+            "bone": "root",
+            "attachment": "big_base"
+          },
+          {
+            "name": "crystal",
+            "bone": "symbol_6",
+            "attachment": "crystal"
+          },
+          {
+            "name": "crystal_mask",
+            "bone": "root",
+            "attachment": "crystal_mask"
+          },
+          {
+            "name": "crystal2",
+            "bone": "symbol_6",
+            "attachment": "crystal",
+            "blend": "additive"
+          }
+        ],
+        "skins": [
+          {
+            "name": "default",
+            "attachments": {
+              "big_base": {
+                "big_base": {
+                  "width": 142,
+                  "height": 142
+                }
+              },
+              "crystal": {
+                "crystal": {
+                  "x": -0.48,
+                  "y": 5.42,
+                  "width": 75,
+                  "height": 97
+                }
+              },
+              "crystal2": {
+                "crystal": {
+                  "x": -0.48,
+                  "y": 5.42,
+                  "width": 75,
+                  "height": 97
+                }
+              },
+              "crystal_mask": {
+                "crystal_mask": {
+                  "type": "clipping",
+                  "end": "crystal_mask",
+                  "vertexCount": 4,
+                  "color": "ce3a3aff",
+                  "vertices": [
+                    -110.8,
+                    53.14,
+                    -13.99,
+                    135.2,
+                    3.16,
+                    114.44,
+                    -99.18,
+                    31.92
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "animations": {
+          "ilde": {},
+          "normal": {
+            "bones": {
+              "symbol_6": {
+                "translate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "y": -3.08,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.7333,
+                    "y": 32.78,
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.9333,
+                    "y": 32.78,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 1.1667,
+                    "y": -3.08,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 1.5,
+                    "y": 3.08,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 2
+                  }
+                ],
+                "scale": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "x": 1.15,
+                    "y": 0.9,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.7333,
+                    "x": 1.2,
+                    "y": 1.3,
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.9333,
+                    "x": 1.2,
+                    "y": 1.3,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 1.1667,
+                    "x": 1.05,
+                    "y": 0.95,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 1.5,
+                    "y": 1.05,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 2
+                  }
+                ]
+              }
+            },
+            "deform": {
+              "default": {
+                "crystal_mask": {
+                  "crystal_mask": [
+                    {
+                      "curve": "stepped",
+                      "vertices": [
+                        7.83701,
+                        -16.13499,
+                        7.83701,
+                        -16.13499,
+                        7.83701,
+                        -16.13499,
+                        7.83701,
+                        -16.13499
+                      ]
+                    },
+                    {
+                      "time": 0.5,
+                      "vertices": [
+                        7.83701,
+                        -16.13499,
+                        7.83701,
+                        -16.13499,
+                        7.83701,
+                        -16.13499,
+                        7.83701,
+                        -16.13499
+                      ]
+                    },
+                    {
+                      "time": 1,
+                      "vertices": [
+                        105.10798,
+                        -120.78195,
+                        105.10798,
+                        -120.78195,
+                        105.10798,
+                        -120.78195,
+                        105.10798,
+                        -120.78195
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      },
+      [
+        0
+      ]
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    -1
+  ],
+  [
+    0
+  ]
+]

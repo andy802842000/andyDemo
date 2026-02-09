@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "79wx+EDqRDzZAs9VICSV7V"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "BonusGame_Background_Landscape",
+      "rect": [
+        2,
+        3,
+        2044,
+        2035
+      ],
+      "offset": [
+        0,
+        3.5
+      ],
+      "originalSize": [
+        2048,
+        2048
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

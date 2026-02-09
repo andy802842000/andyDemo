@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "b0GVWnHhlF9YfVp4Nnx680"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "payline",
+      "rect": [
+        16,
+        13,
+        1076,
+        391
+      ],
+      "offset": [
+        -8,
+        -1.5
+      ],
+      "originalSize": [
+        1124,
+        414
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

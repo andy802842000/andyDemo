@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "6dHvKUgXFM2LFnl9tXRdFq"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "wfx_bigWin2",
+      "rect": [
+        0,
+        0,
+        1964,
+        486
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1964,
+        486
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

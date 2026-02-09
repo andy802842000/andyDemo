@@ -1,0 +1,33 @@
+H3.png
+size: 248,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_base
+  rotate: false
+  xy: 2, 2
+  size: 140, 140
+  orig: 142, 142
+  offset: 1, 1
+  index: -1
+candle
+  rotate: false
+  xy: 144, 54
+  size: 67, 88
+  orig: 70, 90
+  offset: 1, 1
+  index: -1
+pan
+  rotate: false
+  xy: 144, 3
+  size: 102, 49
+  orig: 104, 51
+  offset: 1, 1
+  index: -1
+pan_top
+  rotate: true
+  xy: 213, 55
+  size: 87, 28
+  orig: 89, 34
+  offset: 1, 1
+  index: -1

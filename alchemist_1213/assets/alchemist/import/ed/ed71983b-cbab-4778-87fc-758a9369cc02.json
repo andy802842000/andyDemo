@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "20JzZD8AtA/54zGymouKe3"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "BaseGame_Portrait",
+      "rect": [
+        2,
+        3,
+        2043,
+        2016
+      ],
+      "offset": [
+        -0.5,
+        13
+      ],
+      "originalSize": [
+        2048,
+        2048
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

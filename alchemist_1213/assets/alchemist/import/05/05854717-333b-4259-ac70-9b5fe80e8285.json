@@ -1,0 +1,136 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "PawHouse2_remote_assets",
+      {
+        "remoteHost": "https://rd07.zwai.com.tw/PawHouse2_backup0222/",
+        "SpineAssets": {
+          "Extra_Free_Spins": "Spine/Extra_Free_Spins",
+          "Scatter": "Spine/Scatter",
+          "H1": "Spine/H1",
+          "H2": "Spine/H2",
+          "H3": "Spine/H3",
+          "H4": "Spine/H4",
+          "L1": "Spine/L1",
+          "L2": "Spine/L2",
+          "L3": "Spine/L3",
+          "L4": "Spine/L4",
+          "L5": "Spine/L5",
+          "Wild": "Spine/Wild",
+          "Anticipation": "Spine/Anticipation",
+          "payline": "Spine/payline",
+          "bigWin": "Spine/bigWin",
+          "MainGame_Background_Landscape": "Spine/MainGame_Background_Landscape",
+          "MainGame_Background_Portrait_Idle": "Spine/MainGame_Background_Portrait_Idle",
+          "BonusGame_Background_Landscape": "Spine/BonusGame_Background_Landscape",
+          "BonusGame_Background_Portrait": "Spine/BonusGame_Background_Portrait"
+        },
+        "assets": {
+          "symbol_0": "Texture/S0",
+          "symbol_1": "Texture/S1",
+          "symbol_2": "Texture/S2",
+          "symbol_3": "Texture/S3",
+          "symbol_4": "Texture/S4",
+          "symbol_5": "Texture/S5",
+          "symbol_6": "Texture/S6",
+          "symbol_7": "Texture/S7",
+          "symbol_8": "Texture/S8",
+          "symbol_9": "Texture/S9",
+          "symbol_10": "Texture/S10",
+          "symbol_11": "Texture/S11",
+          "symbol_12": "Texture/S12",
+          "symbol_13": "Texture/S13",
+          "blursymbol_0": "Texture/blurS0",
+          "blursymbol_1": "Texture/blurS1",
+          "blursymbol_2": "Texture/blurS2",
+          "blursymbol_3": "Texture/blurS3",
+          "blursymbol_4": "Texture/blurS4",
+          "blursymbol_5": "Texture/blurS5",
+          "blursymbol_6": "Texture/blurS6",
+          "blursymbol_7": "Texture/blurS7",
+          "blursymbol_8": "Texture/blurS8",
+          "blursymbol_9": "Texture/blurS9",
+          "blursymbol_10": "Texture/blurS10",
+          "blursymbol_11": "Texture/blurS11",
+          "blursymbol_12": "Texture/blurS12",
+          "blursymbol_13": "Texture/blurS13",
+          "IntroScreen01_Portrait": "uiTexture/IntroScreen01_Portrait",
+          "IntroScreen02_Portrait": "uiTexture/IntroScreen02_Portrait",
+          "IntroScreen01": "uiTexture/IntroScreen01",
+          "IntroScreen02": "uiTexture/IntroScreen02",
+          "arrow_hover": "uiTexture/arrow_hover",
+          "arrow_normal": "uiTexture/arrow_normal",
+          "confirm_btn": "uiTexture/confirm_btn",
+          "cancel_btn": "uiTexture/cancel_btn",
+          "confirm_icon": "uiTexture/confirm_icon",
+          "cancel_icon": "uiTexture/cancel_icon",
+          "frame": "uiTexture/frame",
+          "PayTableBackground": "uiTexture/PayTableBackground",
+          "PayTableBackgroundPortrait": "uiTexture/PayTableBackgroundPortrait",
+          "Buy_Freespin": "uiTexture/Buy_Freespin",
+          "PayTable": "uiTexture/PayTable"
+        },
+        "language": {
+          "zh-CHT": "zh-CHT",
+          "zh-CHS": "zh-CHS",
+          "en-US": "en-US",
+          "th-TH": "th-TH",
+          "vi-VN": "vi-VN",
+          "pt-BR": "pt-BR",
+          "id-ID": "id-ID",
+          "ko-KR": "ko-KR"
+        },
+        "AudioAssets": {
+          "MAINGAME": "Audio/Music/MAINGAME",
+          "FREEGAME": "Audio/Music/FREEGAME",
+          "Particle01": "Audio/Music/Particle01",
+          "Particle02": "Audio/Music/Particle02",
+          "ParticleEnd": "Audio/Music/ParticleEnd",
+          "SPIN_START": "Audio/Sound/SPIN_START",
+          "SPIN_STOP": "Audio/Sound/SPIN_STOP",
+          "CLICK_BUTTON": "Audio/Sound/CLICK_BUTTON",
+          "WinLine": "Audio/Sound/WinLine",
+          "BigWinLevelUp": "Audio/Sound/BigWinLevelUp",
+          "ScatterListent": "Audio/Sound/ScatterListent",
+          "ScatterReward": "Audio/Sound/ScatterReward",
+          "Scatter01": "Audio/Sound/Scatter01",
+          "Scatter02": "Audio/Sound/Scatter02",
+          "Scatter03": "Audio/Sound/Scatter03",
+          "Scatter04": "Audio/Sound/Scatter04",
+          "Scatter05": "Audio/Sound/Scatter05",
+          "FreeGamePlus": "Audio/Sound/FreeGamePlus",
+          "WildStick": "Audio/Sound/WildStick",
+          "Flash_to_FG": "Audio/Sound/Flash_to_FG",
+          "FreeGameResult": "Audio/Sound/FreeGameResult"
+        }
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

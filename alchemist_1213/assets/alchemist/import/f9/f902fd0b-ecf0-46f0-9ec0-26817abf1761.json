@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "01XKbegBVNK4FrEjI2J45m"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "OK_background_btn_860X460",
+      "rect": [
+        6,
+        4,
+        847,
+        70
+      ],
+      "offset": [
+        -0.5,
+        1
+      ],
+      "originalSize": [
+        860,
+        80
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

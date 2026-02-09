@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "57GsPcsBZEe4ikrv+rSxoz"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "Background_Dog",
+      "rect": [
+        2,
+        3,
+        559,
+        251
+      ],
+      "offset": [
+        -230.5,
+        -0.5
+      ],
+      "originalSize": [
+        1024,
+        256
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

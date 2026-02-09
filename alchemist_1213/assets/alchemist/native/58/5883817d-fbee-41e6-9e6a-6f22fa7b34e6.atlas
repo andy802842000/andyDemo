@@ -1,0 +1,34 @@
+
+Wild.png
+size: 306,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base_wild
+  rotate: false
+  xy: 2, 2
+  size: 140, 140
+  orig: 142, 142
+  offset: 1, 1
+  index: -1
+rune
+  rotate: true
+  xy: 144, 42
+  size: 100, 114
+  orig: 102, 116
+  offset: 1, 1
+  index: -1
+rune_pic
+  rotate: false
+  xy: 260, 94
+  size: 44, 48
+  orig: 46, 50
+  offset: 1, 1
+  index: -1
+wild
+  rotate: false
+  xy: 144, 3
+  size: 117, 37
+  orig: 119, 39
+  offset: 1, 1
+  index: -1

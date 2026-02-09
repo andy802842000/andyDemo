@@ -1,0 +1,1223 @@
+[
+  1,
+  [
+    "98jOzzvBJPToS43IWct3Jt"
+  ],
+  0,
+  [
+    [
+      "sp.SkeletonData",
+      [
+        "_name",
+        "_atlasText",
+        "textureNames",
+        "_skeletonJson",
+        "textures"
+      ],
+      -1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  [
+    [
+      0,
+      "wfx_bonusGame",
+      "\nwfx_bonusGame.png\nsize: 1338, 796\nformat: RGBA8888\nfilter: Linear, Linear\nrepeat: none\nback\n  rotate: false\n  xy: 2, 451\n  size: 1334, 343\n  orig: 1334, 363\n  offset: 0, 7\n  index: -1\nblack\n  rotate: false\n  xy: 974, 62\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\nbonusGame\n  rotate: false\n  xy: 712, 192\n  size: 624, 257\n  orig: 632, 264\n  offset: 3, 4\n  index: -1\ndoor\n  rotate: false\n  xy: 2, 63\n  size: 708, 386\n  orig: 718, 402\n  offset: 0, 7\n  index: -1\nlight_H\n  rotate: false\n  xy: 712, 2\n  size: 260, 188\n  orig: 284, 188\n  offset: 17, 0\n  index: -1\nstar\n  rotate: false\n  xy: 2, 13\n  size: 49, 48\n  orig: 55, 55\n  offset: 3, 4\n  index: -1\n",
+      [
+        "wfx_bonusGame.png"
+      ],
+      {
+        "skeleton": {
+          "hash": "bWanP+KxOpI",
+          "spine": "3.8-from-4.0-from-4.1.23",
+          "x": -667.17,
+          "y": -667.22,
+          "width": 1334.33,
+          "height": 1334.44
+        },
+        "bones": [
+          {
+            "name": "root"
+          },
+          {
+            "name": "door_L",
+            "parent": "root"
+          },
+          {
+            "name": "door_R",
+            "parent": "root",
+            "scaleX": -1
+          },
+          {
+            "name": "bonusGame",
+            "parent": "root"
+          },
+          {
+            "name": "star_1",
+            "parent": "root",
+            "x": 307.77,
+            "y": -98.25,
+            "scaleX": 2,
+            "scaleY": 2
+          },
+          {
+            "name": "star_2",
+            "parent": "root",
+            "x": 291.67,
+            "y": -85.76,
+            "scaleX": 2,
+            "scaleY": 2
+          },
+          {
+            "name": "star_3",
+            "parent": "root",
+            "x": 231.21,
+            "y": -33.52,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+          },
+          {
+            "name": "star_4",
+            "parent": "root",
+            "x": 118.51,
+            "y": -23.99,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+          },
+          {
+            "name": "star_5",
+            "parent": "root",
+            "x": 188.17,
+            "y": 47.64,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+          },
+          {
+            "name": "star_6",
+            "parent": "root",
+            "x": -35.87,
+            "y": 42.2,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+          },
+          {
+            "name": "star_7",
+            "parent": "root",
+            "x": -26.79,
+            "y": -60.2,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+          },
+          {
+            "name": "star_8",
+            "parent": "root",
+            "x": -71.82,
+            "y": -47.49,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+          },
+          {
+            "name": "star_9",
+            "parent": "root",
+            "x": -136.82,
+            "y": -72.18
+          },
+          {
+            "name": "star_10",
+            "parent": "root",
+            "x": -188.74,
+            "y": 26.58,
+            "scaleX": 2,
+            "scaleY": 2
+          },
+          {
+            "name": "star_11",
+            "parent": "root",
+            "x": -301.31,
+            "y": 98.12,
+            "scaleX": 2,
+            "scaleY": 2
+          },
+          {
+            "name": "star_12",
+            "parent": "root",
+            "x": -301.31,
+            "y": 77.06
+          },
+          {
+            "name": "bonusGame2",
+            "parent": "root"
+          },
+          {
+            "name": "light_H",
+            "parent": "root"
+          }
+        ],
+        "slots": [
+          {
+            "name": "black",
+            "bone": "root",
+            "color": "00000095",
+            "attachment": "black"
+          },
+          {
+            "name": "back",
+            "bone": "root"
+          },
+          {
+            "name": "bonusGame",
+            "bone": "bonusGame",
+            "blend": "additive"
+          },
+          {
+            "name": "bonusGame2",
+            "bone": "bonusGame2",
+            "attachment": "bonusGame",
+            "blend": "additive"
+          },
+          {
+            "name": "door_L",
+            "bone": "door_L"
+          },
+          {
+            "name": "door_R",
+            "bone": "door_R"
+          },
+          {
+            "name": "light_H",
+            "bone": "light_H",
+            "attachment": "light_H",
+            "blend": "additive"
+          },
+          {
+            "name": "star_1",
+            "bone": "star_1",
+            "blend": "additive"
+          },
+          {
+            "name": "star_2",
+            "bone": "star_2",
+            "blend": "additive"
+          },
+          {
+            "name": "star_3",
+            "bone": "star_3",
+            "color": "f8ff8bff",
+            "blend": "additive"
+          },
+          {
+            "name": "star_4",
+            "bone": "star_4",
+            "color": "f8ff8bff",
+            "blend": "additive"
+          },
+          {
+            "name": "star_5",
+            "bone": "star_5",
+            "color": "fdffdfff",
+            "blend": "additive"
+          },
+          {
+            "name": "star_6",
+            "bone": "star_6",
+            "color": "fdffdfff",
+            "blend": "additive"
+          },
+          {
+            "name": "star_7",
+            "bone": "star_7",
+            "color": "fdffdfff",
+            "blend": "additive"
+          },
+          {
+            "name": "star_8",
+            "bone": "star_8",
+            "color": "fdffdfff",
+            "blend": "additive"
+          },
+          {
+            "name": "star_9",
+            "bone": "star_9",
+            "color": "fdffdfff",
+            "blend": "additive"
+          },
+          {
+            "name": "star_10",
+            "bone": "star_10",
+            "color": "fdffdfff",
+            "blend": "additive"
+          },
+          {
+            "name": "star_11",
+            "bone": "star_11",
+            "color": "fdffdfff",
+            "blend": "additive"
+          },
+          {
+            "name": "star_12",
+            "bone": "star_12",
+            "color": "fdffdfff",
+            "blend": "additive"
+          }
+        ],
+        "skins": [
+          {
+            "name": "default",
+            "attachments": {
+              "back": {
+                "back": {
+                  "y": 0.5,
+                  "width": 1334,
+                  "height": 363
+                }
+              },
+              "black": {
+                "black": {
+                  "type": "mesh",
+                  "hull": 12,
+                  "uvs": [
+                    1,
+                    0.11039,
+                    1,
+                    0.88795,
+                    1,
+                    1,
+                    0.90463,
+                    1,
+                    0.10139,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0.89495,
+                    0,
+                    0.10572,
+                    0,
+                    0,
+                    0.10372,
+                    0,
+                    0.90463,
+                    0,
+                    1,
+                    0,
+                    0.10348,
+                    0.10573,
+                    0.90463,
+                    0.11039,
+                    0.10164,
+                    0.89256,
+                    0.90463,
+                    0.89028
+                  ],
+                  "triangles": [
+                    12,
+                    7,
+                    8,
+                    9,
+                    12,
+                    8,
+                    13,
+                    10,
+                    11,
+                    12,
+                    9,
+                    10,
+                    13,
+                    12,
+                    10,
+                    13,
+                    11,
+                    0,
+                    13,
+                    0,
+                    1,
+                    15,
+                    13,
+                    1,
+                    14,
+                    12,
+                    13,
+                    14,
+                    7,
+                    12,
+                    15,
+                    14,
+                    13,
+                    14,
+                    6,
+                    7,
+                    4,
+                    5,
+                    6,
+                    14,
+                    4,
+                    6,
+                    2,
+                    3,
+                    15,
+                    14,
+                    15,
+                    3,
+                    4,
+                    14,
+                    3,
+                    2,
+                    15,
+                    1
+                  ],
+                  "vertices": [
+                    667.17,
+                    653.09,
+                    667.17,
+                    -652.88,
+                    667.17,
+                    -667.22,
+                    654.96,
+                    -667.22,
+                    -654.19,
+                    -667.22,
+                    -667.17,
+                    -667.22,
+                    -667.17,
+                    -653.77,
+                    -667.17,
+                    653.69,
+                    -667.17,
+                    667.22,
+                    -653.89,
+                    667.22,
+                    654.96,
+                    667.22,
+                    667.17,
+                    667.22,
+                    -653.92,
+                    653.69,
+                    654.96,
+                    653.09,
+                    -654.16,
+                    -653.47,
+                    654.96,
+                    -653.18
+                  ]
+                }
+              },
+              "bonusGame": {
+                "bonusGame": {
+                  "width": 632,
+                  "height": 264
+                }
+              },
+              "bonusGame2": {
+                "bonusGame": {
+                  "width": 632,
+                  "height": 264
+                }
+              },
+              "door_L": {
+                "door": {
+                  "x": -308,
+                  "width": 718,
+                  "height": 402
+                }
+              },
+              "door_R": {
+                "door": {
+                  "x": -308,
+                  "width": 718,
+                  "height": 402
+                }
+              },
+              "light_H": {
+                "light_H": {
+                  "scaleX": 4,
+                  "scaleY": 4,
+                  "width": 284,
+                  "height": 188
+                }
+              },
+              "star_1": {
+                "star": {
+                  "rotation": 180,
+                  "width": 55,
+                  "height": 55
+                }
+              },
+              "star_2": {
+                "star": {
+                  "rotation": 180,
+                  "width": 55,
+                  "height": 55
+                }
+              },
+              "star_3": {
+                "star": {
+                  "rotation": 180,
+                  "width": 55,
+                  "height": 55
+                }
+              },
+              "star_4": {
+                "star": {
+                  "rotation": 180,
+                  "width": 55,
+                  "height": 55
+                }
+              },
+              "star_5": {
+                "star": {
+                  "rotation": 180,
+                  "width": 55,
+                  "height": 55
+                }
+              },
+              "star_6": {
+                "star": {
+                  "rotation": 180,
+                  "width": 55,
+                  "height": 55
+                }
+              },
+              "star_7": {
+                "star": {
+                  "rotation": 180,
+                  "width": 55,
+                  "height": 55
+                }
+              },
+              "star_8": {
+                "star": {
+                  "rotation": 180,
+                  "width": 55,
+                  "height": 55
+                }
+              },
+              "star_9": {
+                "star": {
+                  "rotation": 180,
+                  "width": 55,
+                  "height": 55
+                }
+              },
+              "star_10": {
+                "star": {
+                  "rotation": 180,
+                  "width": 55,
+                  "height": 55
+                }
+              },
+              "star_11": {
+                "star": {
+                  "rotation": 180,
+                  "width": 55,
+                  "height": 55
+                }
+              },
+              "star_12": {
+                "star": {
+                  "rotation": 180,
+                  "width": 55,
+                  "height": 55
+                }
+              }
+            }
+          }
+        ],
+        "animations": {
+          "animation": {
+            "slots": {
+              "back": {
+                "color": [
+                  {
+                    "time": 1.9,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 2.2,
+                    "color": "ffffff00"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "time": 0.5,
+                    "name": "back"
+                  }
+                ]
+              },
+              "black": {
+                "color": [
+                  {
+                    "color": "00000000"
+                  },
+                  {
+                    "time": 0.3333,
+                    "color": "00000095",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 1.9,
+                    "color": "00000095"
+                  },
+                  {
+                    "time": 2.2,
+                    "color": "00000000"
+                  }
+                ]
+              },
+              "bonusGame": {
+                "color": [
+                  {
+                    "time": 0.8,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 1.1667,
+                    "color": "ffffff00"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "time": 0.8,
+                    "name": "bonusGame"
+                  }
+                ]
+              },
+              "bonusGame2": {
+                "color": [
+                  {
+                    "time": 1.2667,
+                    "color": "ffffff60",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 1.8,
+                    "color": "ffffff60"
+                  },
+                  {
+                    "time": 2,
+                    "color": "ffffff00"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "name": null
+                  },
+                  {
+                    "time": 1.2667,
+                    "name": "bonusGame"
+                  },
+                  {
+                    "time": 1.3,
+                    "name": null
+                  },
+                  {
+                    "time": 1.3333,
+                    "name": "bonusGame"
+                  },
+                  {
+                    "time": 1.3667,
+                    "name": null
+                  },
+                  {
+                    "time": 1.4,
+                    "name": "bonusGame"
+                  },
+                  {
+                    "time": 1.4333,
+                    "name": null
+                  },
+                  {
+                    "time": 1.4667,
+                    "name": "bonusGame"
+                  },
+                  {
+                    "time": 1.5,
+                    "name": null
+                  },
+                  {
+                    "time": 1.5333,
+                    "name": "bonusGame"
+                  },
+                  {
+                    "time": 1.5667,
+                    "name": null
+                  },
+                  {
+                    "time": 1.6,
+                    "name": "bonusGame"
+                  },
+                  {
+                    "time": 1.6333,
+                    "name": null
+                  },
+                  {
+                    "time": 1.6667,
+                    "name": "bonusGame"
+                  },
+                  {
+                    "time": 1.7,
+                    "name": null
+                  },
+                  {
+                    "time": 1.7333,
+                    "name": "bonusGame"
+                  },
+                  {
+                    "time": 1.7667,
+                    "name": null
+                  },
+                  {
+                    "time": 1.8,
+                    "name": "bonusGame"
+                  }
+                ]
+              },
+              "door_L": {
+                "attachment": [
+                  {
+                    "name": "door"
+                  },
+                  {
+                    "time": 1.2,
+                    "name": null
+                  }
+                ]
+              },
+              "door_R": {
+                "attachment": [
+                  {
+                    "name": "door"
+                  },
+                  {
+                    "time": 1.2,
+                    "name": null
+                  }
+                ]
+              },
+              "light_H": {
+                "color": [
+                  {
+                    "time": 0.5,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.8,
+                    "color": "ffffff00"
+                  }
+                ],
+                "attachment": [
+                  {
+                    "name": null
+                  },
+                  {
+                    "time": 0.2,
+                    "name": "light_H"
+                  }
+                ]
+              },
+              "star_1": {
+                "attachment": [
+                  {
+                    "time": 1.3,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.3333,
+                    "name": null
+                  },
+                  {
+                    "time": 1.4667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.5,
+                    "name": null
+                  },
+                  {
+                    "time": 1.6667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.7,
+                    "name": null
+                  },
+                  {
+                    "time": 1.9,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.9333,
+                    "name": null
+                  }
+                ]
+              },
+              "star_2": {
+                "attachment": [
+                  {
+                    "time": 1.2,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.2333,
+                    "name": null
+                  },
+                  {
+                    "time": 1.3667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.4,
+                    "name": null
+                  },
+                  {
+                    "time": 1.5667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.6,
+                    "name": null
+                  }
+                ]
+              },
+              "star_3": {
+                "attachment": [
+                  {
+                    "time": 1.2333,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.2667,
+                    "name": null
+                  },
+                  {
+                    "time": 1.4,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.4333,
+                    "name": null
+                  },
+                  {
+                    "time": 1.6,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.6333,
+                    "name": null
+                  }
+                ]
+              },
+              "star_4": {
+                "attachment": [
+                  {
+                    "time": 1.3333,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.3667,
+                    "name": null
+                  },
+                  {
+                    "time": 1.5,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.5333,
+                    "name": null
+                  },
+                  {
+                    "time": 1.7,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.7333,
+                    "name": null
+                  },
+                  {
+                    "time": 1.9333,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.9667,
+                    "name": null
+                  }
+                ]
+              },
+              "star_5": {
+                "attachment": [
+                  {
+                    "time": 1.2,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.2333,
+                    "name": null
+                  },
+                  {
+                    "time": 1.3667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.4,
+                    "name": null
+                  },
+                  {
+                    "time": 1.5667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.6,
+                    "name": null
+                  },
+                  {
+                    "time": 1.8,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.8333,
+                    "name": null
+                  }
+                ]
+              },
+              "star_6": {
+                "attachment": [
+                  {
+                    "time": 1.2667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.3,
+                    "name": null
+                  },
+                  {
+                    "time": 1.4333,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.4667,
+                    "name": null
+                  },
+                  {
+                    "time": 1.6333,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.6667,
+                    "name": null
+                  },
+                  {
+                    "time": 1.8667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.9,
+                    "name": null
+                  }
+                ]
+              },
+              "star_7": {
+                "attachment": [
+                  {
+                    "time": 1.3333,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.3667,
+                    "name": null
+                  },
+                  {
+                    "time": 1.5,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.5333,
+                    "name": null
+                  },
+                  {
+                    "time": 1.7,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.7333,
+                    "name": null
+                  }
+                ]
+              },
+              "star_8": {
+                "attachment": [
+                  {
+                    "time": 1.2667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.3,
+                    "name": null
+                  },
+                  {
+                    "time": 1.4333,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.4667,
+                    "name": null
+                  },
+                  {
+                    "time": 1.6333,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.6667,
+                    "name": null
+                  }
+                ]
+              },
+              "star_9": {
+                "attachment": [
+                  {
+                    "time": 1.2,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.2333,
+                    "name": null
+                  },
+                  {
+                    "time": 1.3667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.4,
+                    "name": null
+                  },
+                  {
+                    "time": 1.5667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.6,
+                    "name": null
+                  }
+                ]
+              },
+              "star_10": {
+                "attachment": [
+                  {
+                    "time": 1.3,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.3333,
+                    "name": null
+                  },
+                  {
+                    "time": 1.4667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.5,
+                    "name": null
+                  },
+                  {
+                    "time": 1.6667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.7,
+                    "name": null
+                  },
+                  {
+                    "time": 1.9,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.9333,
+                    "name": null
+                  }
+                ]
+              },
+              "star_11": {
+                "attachment": [
+                  {
+                    "time": 1.2667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.3,
+                    "name": null
+                  },
+                  {
+                    "time": 1.4333,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.4667,
+                    "name": null
+                  },
+                  {
+                    "time": 1.6333,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.6667,
+                    "name": null
+                  }
+                ]
+              },
+              "star_12": {
+                "attachment": [
+                  {
+                    "time": 1.2,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.2333,
+                    "name": null
+                  },
+                  {
+                    "time": 1.3667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.4,
+                    "name": null
+                  },
+                  {
+                    "time": 1.5667,
+                    "name": "star"
+                  },
+                  {
+                    "time": 1.6,
+                    "name": null
+                  }
+                ]
+              }
+            },
+            "bones": {
+              "door_L": {
+                "translate": [
+                  {
+                    "x": -700
+                  },
+                  {
+                    "time": 0.2
+                  },
+                  {
+                    "time": 0.2667,
+                    "x": -30
+                  },
+                  {
+                    "time": 0.4667,
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.7667
+                  },
+                  {
+                    "time": 0.8,
+                    "x": -233.33
+                  },
+                  {
+                    "time": 1.2,
+                    "x": -700
+                  }
+                ]
+              },
+              "door_R": {
+                "translate": [
+                  {
+                    "x": 700
+                  },
+                  {
+                    "time": 0.2
+                  },
+                  {
+                    "time": 0.2667,
+                    "x": 30
+                  },
+                  {
+                    "time": 0.4667,
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.7667
+                  },
+                  {
+                    "time": 0.8,
+                    "x": 233.33
+                  },
+                  {
+                    "time": 1.2,
+                    "x": 700
+                  }
+                ]
+              },
+              "bonusGame": {
+                "translate": [
+                  {
+                    "time": 0.8,
+                    "x": -2,
+                    "y": -12
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.8
+                  },
+                  {
+                    "time": 1.1667,
+                    "x": 2.363,
+                    "y": 2.363
+                  }
+                ]
+              },
+              "bonusGame2": {
+                "translate": [
+                  {
+                    "x": -2,
+                    "y": -12
+                  }
+                ]
+              },
+              "light_H": {
+                "scale": [
+                  {
+                    "time": 0.2,
+                    "x": 4
+                  },
+                  {
+                    "time": 0.8,
+                    "x": 0.5
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      [
+        0
+      ]
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    -1
+  ],
+  [
+    0
+  ]
+]

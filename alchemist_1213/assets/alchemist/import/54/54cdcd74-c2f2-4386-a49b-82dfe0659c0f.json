@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "66kv68cfxK6JuWUkkIrPjh"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "spin_hold for turbo_btn",
+      "rect": [
+        1,
+        0,
+        149,
+        149
+      ],
+      "offset": [
+        0.5,
+        0.5
+      ],
+      "originalSize": [
+        150,
+        150
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

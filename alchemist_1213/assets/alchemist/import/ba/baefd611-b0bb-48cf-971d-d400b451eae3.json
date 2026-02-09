@@ -1,0 +1,2065 @@
+[
+  1,
+  [
+    "19ygvmnORJeZZ5duIwkp6y"
+  ],
+  0,
+  [
+    [
+      "sp.SkeletonData",
+      [
+        "_name",
+        "_atlasText",
+        "textureNames",
+        "_skeletonJson",
+        "textures"
+      ],
+      -1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  [
+    [
+      0,
+      "j",
+      "\nj.png\nsize: 413, 304\nformat: RGBA8888\nfilter: Linear, Linear\nrepeat: none\ncloud01\n  rotate: false\n  xy: 304, 42\n  size: 90, 63\n  orig: 91, 66\n  offset: 0, 2\n  index: -1\ncloud02\n  rotate: false\n  xy: 304, 107\n  size: 83, 85\n  orig: 86, 87\n  offset: 3, 2\n  index: -1\ncloudlight\n  rotate: true\n  xy: 304, 194\n  size: 108, 107\n  orig: 109, 108\n  offset: 0, 0\n  index: -1\nj\n  rotate: false\n  xy: 2, 2\n  size: 300, 300\n  orig: 300, 300\n  offset: 0, 0\n  index: -1\n",
+      [
+        "j.png"
+      ],
+      {
+        "skeleton": {
+          "hash": "VT6KMSnicbQ",
+          "spine": "3.8-from-4.0.64",
+          "x": -100,
+          "y": -100,
+          "width": 200,
+          "height": 200
+        },
+        "bones": [
+          {
+            "name": "root",
+            "scaleX": 0.2,
+            "scaleY": 0.2
+          },
+          {
+            "name": "fx",
+            "parent": "root",
+            "y": -189.42,
+            "scaleX": 0.6503,
+            "scaleY": 0.6503
+          },
+          {
+            "name": "cloud01a",
+            "parent": "fx"
+          },
+          {
+            "name": "cloud01b",
+            "parent": "fx"
+          },
+          {
+            "name": "cloud01c",
+            "parent": "fx"
+          },
+          {
+            "name": "cloud01d",
+            "parent": "fx"
+          },
+          {
+            "name": "cloud01e",
+            "parent": "fx"
+          },
+          {
+            "name": "cloud01f",
+            "parent": "fx"
+          },
+          {
+            "name": "cloud01g",
+            "parent": "fx"
+          },
+          {
+            "name": "cloud01h",
+            "parent": "fx"
+          },
+          {
+            "name": "cloud01i",
+            "parent": "fx"
+          },
+          {
+            "name": "cloud02a",
+            "parent": "fx"
+          },
+          {
+            "name": "cloud02b",
+            "parent": "fx"
+          },
+          {
+            "name": "cloud02c",
+            "parent": "fx"
+          },
+          {
+            "name": "cloud02d",
+            "parent": "fx"
+          },
+          {
+            "name": "cloud02e",
+            "parent": "fx"
+          },
+          {
+            "name": "cloudlight",
+            "parent": "fx"
+          },
+          {
+            "name": "starlight",
+            "parent": "fx"
+          },
+          {
+            "name": "move",
+            "parent": "root"
+          }
+        ],
+        "slots": [
+          {
+            "name": "cloudlight",
+            "bone": "cloudlight",
+            "color": "ffffff00",
+            "attachment": "cloudlight"
+          },
+          {
+            "name": "cloud01",
+            "bone": "cloud01a",
+            "color": "ffffff00",
+            "attachment": "cloud01"
+          },
+          {
+            "name": "cloud012",
+            "bone": "cloud01b",
+            "color": "ffffff00",
+            "attachment": "cloud01"
+          },
+          {
+            "name": "cloud013",
+            "bone": "cloud01c",
+            "color": "ffffff00",
+            "attachment": "cloud01"
+          },
+          {
+            "name": "cloud014",
+            "bone": "cloud01d",
+            "color": "ffffff00",
+            "attachment": "cloud01"
+          },
+          {
+            "name": "cloud015",
+            "bone": "cloud01e",
+            "color": "ffffff00",
+            "attachment": "cloud01"
+          },
+          {
+            "name": "cloud016",
+            "bone": "cloud01f",
+            "color": "ffffff00",
+            "attachment": "cloud01"
+          },
+          {
+            "name": "cloud017",
+            "bone": "cloud01g",
+            "color": "ffffff00",
+            "attachment": "cloud01"
+          },
+          {
+            "name": "cloud018",
+            "bone": "cloud01h",
+            "color": "ffffff00",
+            "attachment": "cloud01"
+          },
+          {
+            "name": "cloud019",
+            "bone": "cloud01i",
+            "color": "ffffff00",
+            "attachment": "cloud01"
+          },
+          {
+            "name": "cloud02",
+            "bone": "cloud02a",
+            "color": "ffffff00",
+            "attachment": "cloud02"
+          },
+          {
+            "name": "cloud022",
+            "bone": "cloud02b",
+            "color": "ffffff00",
+            "attachment": "cloud02"
+          },
+          {
+            "name": "coins1",
+            "bone": "move",
+            "attachment": "j"
+          },
+          {
+            "name": "coinslight",
+            "bone": "move",
+            "color": "ffffff00",
+            "attachment": "j",
+            "blend": "additive"
+          },
+          {
+            "name": "cloud023",
+            "bone": "cloud02c",
+            "color": "ffffff00",
+            "attachment": "cloud02"
+          },
+          {
+            "name": "cloud024",
+            "bone": "cloud02d",
+            "color": "ffffff00",
+            "attachment": "cloud02"
+          },
+          {
+            "name": "cloud025",
+            "bone": "cloud02e",
+            "color": "ffffff00",
+            "attachment": "cloud02"
+          }
+        ],
+        "skins": [
+          {
+            "name": "default",
+            "attachments": {
+              "cloud01": {
+                "cloud01": {
+                  "width": 303,
+                  "height": 220
+                }
+              },
+              "cloud02": {
+                "cloud02": {
+                  "width": 288,
+                  "height": 290
+                }
+              },
+              "cloud012": {
+                "cloud01": {
+                  "width": 303,
+                  "height": 220
+                }
+              },
+              "cloud013": {
+                "cloud01": {
+                  "width": 303,
+                  "height": 220
+                }
+              },
+              "cloud014": {
+                "cloud01": {
+                  "width": 303,
+                  "height": 220
+                }
+              },
+              "cloud015": {
+                "cloud01": {
+                  "width": 303,
+                  "height": 220
+                }
+              },
+              "cloud016": {
+                "cloud01": {
+                  "width": 303,
+                  "height": 220
+                }
+              },
+              "cloud017": {
+                "cloud01": {
+                  "width": 303,
+                  "height": 220
+                }
+              },
+              "cloud018": {
+                "cloud01": {
+                  "width": 303,
+                  "height": 220
+                }
+              },
+              "cloud019": {
+                "cloud01": {
+                  "width": 303,
+                  "height": 220
+                }
+              },
+              "cloud022": {
+                "cloud02": {
+                  "width": 288,
+                  "height": 290
+                }
+              },
+              "cloud023": {
+                "cloud02": {
+                  "width": 288,
+                  "height": 290
+                }
+              },
+              "cloud024": {
+                "cloud02": {
+                  "width": 288,
+                  "height": 290
+                }
+              },
+              "cloud025": {
+                "cloud02": {
+                  "width": 288,
+                  "height": 290
+                }
+              },
+              "cloudlight": {
+                "cloudlight": {
+                  "width": 364,
+                  "height": 360
+                }
+              },
+              "coins1": {
+                "j": {
+                  "type": "mesh",
+                  "hull": 16,
+                  "uvs": [
+                    1,
+                    1,
+                    0.75,
+                    1,
+                    0.5,
+                    1,
+                    0.25,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0.75,
+                    0,
+                    0.5,
+                    0,
+                    0.25,
+                    0,
+                    0,
+                    0.25,
+                    0,
+                    0.5,
+                    0,
+                    0.75,
+                    0,
+                    1,
+                    0,
+                    1,
+                    0.25,
+                    1,
+                    0.5,
+                    1,
+                    0.75,
+                    0.75,
+                    0.75,
+                    0.5,
+                    0.75,
+                    0.25,
+                    0.75,
+                    0.75,
+                    0.5,
+                    0.5,
+                    0.5,
+                    0.25,
+                    0.5,
+                    0.75,
+                    0.25,
+                    0.5,
+                    0.25,
+                    0.25,
+                    0.25
+                  ],
+                  "triangles": [
+                    7,
+                    8,
+                    9,
+                    24,
+                    9,
+                    10,
+                    7,
+                    9,
+                    24,
+                    23,
+                    10,
+                    11,
+                    24,
+                    10,
+                    23,
+                    22,
+                    11,
+                    12,
+                    23,
+                    11,
+                    22,
+                    22,
+                    12,
+                    13,
+                    6,
+                    7,
+                    24,
+                    21,
+                    24,
+                    23,
+                    6,
+                    24,
+                    21,
+                    20,
+                    23,
+                    22,
+                    21,
+                    23,
+                    20,
+                    19,
+                    22,
+                    13,
+                    20,
+                    22,
+                    19,
+                    19,
+                    13,
+                    14,
+                    5,
+                    6,
+                    21,
+                    18,
+                    21,
+                    20,
+                    5,
+                    21,
+                    18,
+                    17,
+                    20,
+                    19,
+                    18,
+                    20,
+                    17,
+                    16,
+                    19,
+                    14,
+                    17,
+                    19,
+                    16,
+                    16,
+                    14,
+                    15,
+                    4,
+                    5,
+                    18,
+                    3,
+                    18,
+                    17,
+                    4,
+                    18,
+                    3,
+                    2,
+                    17,
+                    16,
+                    3,
+                    17,
+                    2,
+                    1,
+                    16,
+                    15,
+                    2,
+                    16,
+                    1,
+                    1,
+                    15,
+                    0
+                  ],
+                  "vertices": [
+                    500,
+                    -500,
+                    250,
+                    -500,
+                    0,
+                    -500,
+                    -250,
+                    -500,
+                    -500,
+                    -500,
+                    -500,
+                    -250,
+                    -500,
+                    0,
+                    -500,
+                    250,
+                    -500,
+                    500,
+                    -250,
+                    500,
+                    0,
+                    500,
+                    250,
+                    500,
+                    500,
+                    500,
+                    500,
+                    250,
+                    500,
+                    0,
+                    500,
+                    -250,
+                    250,
+                    -250,
+                    0,
+                    -250,
+                    -250,
+                    -250,
+                    250,
+                    0,
+                    0,
+                    0,
+                    -250,
+                    0,
+                    250,
+                    250,
+                    0,
+                    250,
+                    -250,
+                    250
+                  ]
+                }
+              },
+              "coinslight": {
+                "j": {
+                  "type": "mesh",
+                  "hull": 16,
+                  "uvs": [
+                    1,
+                    1,
+                    0.75,
+                    1,
+                    0.5,
+                    1,
+                    0.25,
+                    1,
+                    0,
+                    1,
+                    0,
+                    0.75,
+                    0,
+                    0.5,
+                    0,
+                    0.25,
+                    0,
+                    0,
+                    0.25,
+                    0,
+                    0.5,
+                    0,
+                    0.75,
+                    0,
+                    1,
+                    0,
+                    1,
+                    0.25,
+                    1,
+                    0.5,
+                    1,
+                    0.75,
+                    0.75,
+                    0.75,
+                    0.5,
+                    0.75,
+                    0.25,
+                    0.75,
+                    0.75,
+                    0.5,
+                    0.5,
+                    0.5,
+                    0.25,
+                    0.5,
+                    0.75,
+                    0.25,
+                    0.5,
+                    0.25,
+                    0.25,
+                    0.25
+                  ],
+                  "triangles": [
+                    7,
+                    8,
+                    9,
+                    24,
+                    9,
+                    10,
+                    7,
+                    9,
+                    24,
+                    23,
+                    10,
+                    11,
+                    24,
+                    10,
+                    23,
+                    22,
+                    11,
+                    12,
+                    23,
+                    11,
+                    22,
+                    22,
+                    12,
+                    13,
+                    6,
+                    7,
+                    24,
+                    21,
+                    24,
+                    23,
+                    6,
+                    24,
+                    21,
+                    20,
+                    23,
+                    22,
+                    21,
+                    23,
+                    20,
+                    19,
+                    22,
+                    13,
+                    20,
+                    22,
+                    19,
+                    19,
+                    13,
+                    14,
+                    5,
+                    6,
+                    21,
+                    18,
+                    21,
+                    20,
+                    5,
+                    21,
+                    18,
+                    17,
+                    20,
+                    19,
+                    18,
+                    20,
+                    17,
+                    16,
+                    19,
+                    14,
+                    17,
+                    19,
+                    16,
+                    16,
+                    14,
+                    15,
+                    4,
+                    5,
+                    18,
+                    3,
+                    18,
+                    17,
+                    4,
+                    18,
+                    3,
+                    2,
+                    17,
+                    16,
+                    3,
+                    17,
+                    2,
+                    1,
+                    16,
+                    15,
+                    2,
+                    16,
+                    1,
+                    1,
+                    15,
+                    0
+                  ],
+                  "vertices": [
+                    500,
+                    -500,
+                    250,
+                    -500,
+                    0,
+                    -500,
+                    -250,
+                    -500,
+                    -500,
+                    -500,
+                    -500,
+                    -250,
+                    -500,
+                    0,
+                    -500,
+                    250,
+                    -500,
+                    500,
+                    -250,
+                    500,
+                    0,
+                    500,
+                    250,
+                    500,
+                    500,
+                    500,
+                    500,
+                    250,
+                    500,
+                    0,
+                    500,
+                    -250,
+                    250,
+                    -250,
+                    0,
+                    -250,
+                    -250,
+                    -250,
+                    250,
+                    0,
+                    0,
+                    0,
+                    -250,
+                    0,
+                    250,
+                    250,
+                    0,
+                    250,
+                    -250,
+                    250
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "animations": {
+          "idle": {
+            "bones": {
+              "root": {
+                "scale": [
+                  {
+                    "time": 1
+                  }
+                ]
+              }
+            }
+          },
+          "in": {
+            "slots": {
+              "coinslight": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.1667,
+                    "color": "ffffff64"
+                  },
+                  {
+                    "time": 0.3333,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              }
+            },
+            "bones": {
+              "cloud01a": {
+                "rotate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "angle": -33.29
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 2.285,
+                    "y": 2.285
+                  }
+                ]
+              },
+              "cloud02a": {
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "y": 205.86
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.81,
+                    "y": 1.533
+                  }
+                ]
+              },
+              "cloud01b": {
+                "rotate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "angle": -71.14
+                  }
+                ],
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": -370.29
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.312,
+                    "y": 2.071
+                  }
+                ]
+              },
+              "cloud01c": {
+                "rotate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "angle": -54.7
+                  }
+                ],
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 248.47,
+                    "y": 266.22
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.54,
+                    "y": 2.182
+                  }
+                ]
+              },
+              "cloud01d": {
+                "rotate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "angle": 58.79
+                  }
+                ],
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": -39.3,
+                    "y": 120.73
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.356,
+                    "y": 1.963
+                  }
+                ]
+              },
+              "cloud01e": {
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "y": -87
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 2.177,
+                    "y": 2.177
+                  }
+                ]
+              },
+              "cloud01f": {
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": -457.86,
+                    "y": -54.55
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.702,
+                    "y": 1.52
+                  }
+                ]
+              },
+              "cloud01g": {
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 389.18,
+                    "y": -110.04
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.969,
+                    "y": 1.969
+                  }
+                ]
+              },
+              "cloud01h": {
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": -229.55,
+                    "y": -55.26
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.76,
+                    "y": 1.76
+                  }
+                ]
+              },
+              "cloud01i": {
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 184.92,
+                    "y": 125.4
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.438,
+                    "y": 1.438
+                  }
+                ]
+              },
+              "cloud02b": {
+                "rotate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "angle": -21.43
+                  }
+                ],
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 178.57,
+                    "y": -126.22
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.33,
+                    "y": 1.33
+                  }
+                ]
+              },
+              "cloud02c": {
+                "rotate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "angle": 13.74
+                  }
+                ],
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": -233.72,
+                    "y": -122.66
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.663,
+                    "y": 1.314
+                  }
+                ]
+              },
+              "cloud02d": {
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 337.86,
+                    "y": 163.1
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.689,
+                    "y": 1.689
+                  }
+                ]
+              },
+              "cloud02e": {
+                "rotate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "angle": -34.3
+                  }
+                ],
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": -288.29,
+                    "y": 146.93
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.75,
+                    "y": 1.75
+                  }
+                ]
+              },
+              "cloudlight": {
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 0.0667,
+                    "x": 2.599,
+                    "y": 2.599
+                  },
+                  {
+                    "time": 0.4333,
+                    "x": 0.132,
+                    "y": 0.132
+                  }
+                ]
+              },
+              "starlight": {
+                "scale": [
+                  {},
+                  {
+                    "time": 0.0333,
+                    "x": 2.707,
+                    "y": 2.707
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": 2.392,
+                    "y": 2.392
+                  },
+                  {
+                    "time": 0.3333,
+                    "x": 0,
+                    "y": 0
+                  }
+                ]
+              }
+            }
+          },
+          "win": {
+            "slots": {
+              "cloud01": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.0333,
+                    "color": "ffffffa0",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffffa0"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "cloud02": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.0333,
+                    "color": "ffffffa0",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffffa0"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "cloud012": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.0333,
+                    "color": "ffffffa0",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffffa0"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "cloud013": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.0333,
+                    "color": "ffffffa0",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffffa0"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "cloud014": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.0333,
+                    "color": "ffffffa0",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffffa0"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "cloud015": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.0333,
+                    "color": "ffffffa0",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffffa0"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "cloud016": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.0333,
+                    "color": "ffffffa0",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffffa0"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "cloud017": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.0333,
+                    "color": "ffffffa0",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffffa0"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "cloud018": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.0333,
+                    "color": "ffffffa0",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffffa0"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "cloud019": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.0333,
+                    "color": "ffffffa0",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffffa0"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "cloud022": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.0333,
+                    "color": "ffffffa0",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffffa0"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "cloud023": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.0333,
+                    "color": "ffffffa0",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffffa0"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "cloud024": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.0333,
+                    "color": "ffffffa0",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffffa0"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "cloud025": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.0333,
+                    "color": "ffffffa0",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.5,
+                    "color": "ffffffa0"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "cloudlight": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.0333,
+                    "color": "ffffffff",
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.3,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 0.4333,
+                    "color": "ffffff00"
+                  }
+                ]
+              },
+              "coinslight": {
+                "color": [
+                  {
+                    "color": "ffffff00"
+                  },
+                  {
+                    "time": 0.1667,
+                    "color": "ffffff64"
+                  },
+                  {
+                    "time": 0.3333,
+                    "color": "ffffffff"
+                  },
+                  {
+                    "time": 1,
+                    "color": "ffffff00"
+                  }
+                ]
+              }
+            },
+            "bones": {
+              "cloud01a": {
+                "rotate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "angle": -33.29
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 2.285,
+                    "y": 2.285
+                  }
+                ]
+              },
+              "cloud02a": {
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "y": 205.86
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.81,
+                    "y": 1.533
+                  }
+                ]
+              },
+              "cloud01b": {
+                "rotate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "angle": -71.14
+                  }
+                ],
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": -370.29
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.312,
+                    "y": 2.071
+                  }
+                ]
+              },
+              "cloud01c": {
+                "rotate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "angle": -54.7
+                  }
+                ],
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 248.47,
+                    "y": 266.22
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.54,
+                    "y": 2.182
+                  }
+                ]
+              },
+              "cloud01d": {
+                "rotate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "angle": 58.79
+                  }
+                ],
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": -39.3,
+                    "y": 120.73
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.356,
+                    "y": 1.963
+                  }
+                ]
+              },
+              "cloud01e": {
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "y": -87
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 2.177,
+                    "y": 2.177
+                  }
+                ]
+              },
+              "cloud01f": {
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": -457.86,
+                    "y": -54.55
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.702,
+                    "y": 1.52
+                  }
+                ]
+              },
+              "cloud01g": {
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 389.18,
+                    "y": -110.04
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.969,
+                    "y": 1.969
+                  }
+                ]
+              },
+              "cloud01h": {
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": -229.55,
+                    "y": -55.26
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.76,
+                    "y": 1.76
+                  }
+                ]
+              },
+              "cloud01i": {
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 184.92,
+                    "y": 125.4
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.438,
+                    "y": 1.438
+                  }
+                ]
+              },
+              "cloud02b": {
+                "rotate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "angle": -21.43
+                  }
+                ],
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 178.57,
+                    "y": -126.22
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.33,
+                    "y": 1.33
+                  }
+                ]
+              },
+              "cloud02c": {
+                "rotate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "angle": 13.74
+                  }
+                ],
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": -233.72,
+                    "y": -122.66
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.663,
+                    "y": 1.314
+                  }
+                ]
+              },
+              "cloud02d": {
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 337.86,
+                    "y": 163.1
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.689,
+                    "y": 1.689
+                  }
+                ]
+              },
+              "cloud02e": {
+                "rotate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "angle": -34.3
+                  }
+                ],
+                "translate": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": -288.29,
+                    "y": 146.93
+                  }
+                ],
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.75,
+                    "y": 1.75
+                  }
+                ]
+              },
+              "cloudlight": {
+                "scale": [
+                  {
+                    "time": 0.0333
+                  },
+                  {
+                    "time": 0.0667,
+                    "x": 2.599,
+                    "y": 2.599
+                  },
+                  {
+                    "time": 0.4333,
+                    "x": 0.132,
+                    "y": 0.132
+                  }
+                ]
+              },
+              "starlight": {
+                "scale": [
+                  {},
+                  {
+                    "time": 0.0333,
+                    "x": 2.707,
+                    "y": 2.707
+                  },
+                  {
+                    "time": 0.1667,
+                    "x": 2.392,
+                    "y": 2.392
+                  },
+                  {
+                    "time": 0.3333,
+                    "x": 0,
+                    "y": 0
+                  }
+                ]
+              },
+              "move": {
+                "scale": [
+                  {},
+                  {
+                    "time": 0.3333,
+                    "x": 1.2,
+                    "y": 1.2
+                  },
+                  {
+                    "time": 0.6667
+                  }
+                ]
+              },
+              "fx": {
+                "scale": [
+                  {},
+                  {
+                    "time": 0.3333,
+                    "x": 1.23,
+                    "y": 1.23
+                  },
+                  {
+                    "time": 0.6667
+                  }
+                ]
+              }
+            },
+            "deform": {
+              "default": {
+                "coins1": {
+                  "j": [
+                    {},
+                    {
+                      "time": 0.1667,
+                      "offset": 32,
+                      "vertices": [
+                        -34.04064,
+                        34.04061,
+                        0,
+                        34.04062,
+                        34.04064,
+                        34.04062,
+                        -34.04061,
+                        -0.00001,
+                        0,
+                        0,
+                        34.04062,
+                        0.00001,
+                        -34.04059,
+                        -34.04065,
+                        0.00002,
+                        -34.04062,
+                        34.04063,
+                        -34.04064
+                      ]
+                    },
+                    {
+                      "time": 0.3333,
+                      "offset": 32,
+                      "vertices": [
+                        58.37926,
+                        -58.37914,
+                        0,
+                        -58.37914,
+                        -58.37915,
+                        -58.3792,
+                        58.37915,
+                        0.00003,
+                        0,
+                        0,
+                        -58.37917,
+                        0,
+                        58.37914,
+                        58.37923,
+                        -0.00003,
+                        58.3792,
+                        -58.37923,
+                        58.37917
+                      ]
+                    },
+                    {
+                      "time": 1
+                    }
+                  ]
+                },
+                "coinslight": {
+                  "j": [
+                    {},
+                    {
+                      "time": 0.1667,
+                      "offset": 32,
+                      "vertices": [
+                        -34.04064,
+                        34.04061,
+                        0,
+                        34.04062,
+                        34.04064,
+                        34.04062,
+                        -34.04061,
+                        -0.00001,
+                        0,
+                        0,
+                        34.04062,
+                        0.00001,
+                        -34.04059,
+                        -34.04065,
+                        0.00002,
+                        -34.04062,
+                        34.04063,
+                        -34.04064
+                      ]
+                    },
+                    {
+                      "time": 0.3333,
+                      "offset": 32,
+                      "vertices": [
+                        58.37926,
+                        -58.37914,
+                        0,
+                        -58.37914,
+                        -58.37915,
+                        -58.3792,
+                        58.37915,
+                        0.00003,
+                        0,
+                        0,
+                        -58.37917,
+                        0,
+                        58.37914,
+                        58.37923,
+                        -0.00003,
+                        58.3792,
+                        -58.37923,
+                        58.37917
+                      ]
+                    },
+                    {
+                      "time": 1
+                    }
+                  ]
+                }
+              }
+            },
+            "drawOrder": [
+              {
+                "time": 2
+              }
+            ]
+          }
+        }
+      },
+      [
+        0
+      ]
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    -1
+  ],
+  [
+    0
+  ]
+]

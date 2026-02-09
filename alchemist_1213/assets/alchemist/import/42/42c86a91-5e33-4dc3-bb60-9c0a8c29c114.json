@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "f5fNE9p0xNNqgl+AohxM+l"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "MainGame_Background_Landscape",
+      "rect": [
+        2,
+        2,
+        1626,
+        1761
+      ],
+      "offset": [
+        -209,
+        141.5
+      ],
+      "originalSize": [
+        2048,
+        2048
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

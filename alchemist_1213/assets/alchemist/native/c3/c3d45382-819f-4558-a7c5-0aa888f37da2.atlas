@@ -1,0 +1,391 @@
+
+MainGame_Background_Portrait_Idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bird_1
+  rotate: true
+  xy: 738, 457
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+bird_2
+  rotate: false
+  xy: 1431, 514
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+bird_3
+  rotate: true
+  xy: 1633, 803
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+bird_4
+  rotate: false
+  xy: 1468, 1305
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+bird_5
+  rotate: false
+  xy: 1129, 340
+  size: 99, 29
+  orig: 99, 29
+  offset: 0, 0
+  index: -1
+build
+  rotate: true
+  xy: 1260, 652
+  size: 111, 86
+  orig: 111, 86
+  offset: 0, 0
+  index: -1
+cloud_01
+  rotate: true
+  xy: 1510, 1262
+  size: 784, 165
+  orig: 784, 165
+  offset: 0, 0
+  index: -1
+cloud_02
+  rotate: true
+  xy: 1781, 1382
+  size: 664, 179
+  orig: 664, 179
+  offset: 0, 0
+  index: -1
+cloud_03
+  rotate: false
+  xy: 2, 26
+  size: 499, 54
+  orig: 499, 54
+  offset: 0, 0
+  index: -1
+cloud_04
+  rotate: true
+  xy: 1134, 823
+  size: 502, 229
+  orig: 502, 229
+  offset: 0, 0
+  index: -1
+cloud_05
+  rotate: true
+  xy: 1677, 1208
+  size: 838, 102
+  orig: 838, 102
+  offset: 0, 0
+  index: -1
+cloud_06
+  rotate: false
+  xy: 2, 82
+  size: 734, 404
+  orig: 734, 404
+  offset: 0, 0
+  index: -1
+cloud_1
+  rotate: true
+  xy: 1468, 803
+  size: 457, 163
+  orig: 457, 163
+  offset: 0, 0
+  index: -1
+cloud_2
+  rotate: false
+  xy: 756, 335
+  size: 371, 179
+  orig: 371, 179
+  offset: 0, 0
+  index: -1
+cloud_3
+  rotate: true
+  xy: 1962, 1547
+  size: 499, 54
+  orig: 499, 54
+  offset: 0, 0
+  index: -1
+cloud_4
+  rotate: false
+  xy: 756, 516
+  size: 502, 229
+  orig: 502, 229
+  offset: 0, 0
+  index: -1
+cloud_5
+  rotate: true
+  xy: 1365, 651
+  size: 674, 101
+  orig: 674, 101
+  offset: 0, 0
+  index: -1
+cloud_6
+  rotate: false
+  xy: 756, 1327
+  size: 752, 719
+  orig: 752, 719
+  offset: 0, 0
+  index: -1
+g_1
+  rotate: true
+  xy: 619, 15
+  size: 65, 117
+  orig: 65, 117
+  offset: 0, 0
+  index: -1
+g_11
+  rotate: false
+  xy: 2, 1227
+  size: 752, 819
+  orig: 752, 819
+  offset: 0, 0
+  index: -1
+g_2
+  rotate: true
+  xy: 503, 2
+  size: 78, 114
+  orig: 78, 114
+  offset: 0, 0
+  index: -1
+g_3
+  rotate: false
+  xy: 1633, 1221
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+g_4
+  rotate: true
+  xy: 1260, 543
+  size: 107, 80
+  orig: 107, 80
+  offset: 0, 0
+  index: -1
+g_5a
+  rotate: false
+  xy: 1342, 444
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+g_9
+  rotate: false
+  xy: 939, 6
+  size: 311, 327
+  orig: 311, 327
+  offset: 0, 0
+  index: -1
+house
+  rotate: false
+  xy: 2, 488
+  size: 752, 737
+  orig: 752, 737
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1633, 830
+  size: 376, 150
+  orig: 376, 150
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 756, 747
+  size: 376, 578
+  orig: 376, 578
+  offset: 0, 0
+  index: -1
+tree_1
+  rotate: false
+  xy: 1802, 770
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+tree_10
+  rotate: false
+  xy: 1781, 1261
+  size: 209, 119
+  orig: 209, 119
+  offset: 0, 0
+  index: -1
+tree_11
+  rotate: false
+  xy: 1902, 1118
+  size: 137, 141
+  orig: 137, 141
+  offset: 0, 0
+  index: -1
+tree_12
+  rotate: true
+  xy: 1785, 834
+  size: 155, 110
+  orig: 155, 110
+  offset: 0, 0
+  index: -1
+tree_13
+  rotate: false
+  xy: 1902, 990
+  size: 129, 126
+  orig: 129, 126
+  offset: 0, 0
+  index: -1
+tree_15
+  rotate: false
+  xy: 1728, 688
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+tree_16
+  rotate: true
+  xy: 1728, 549
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+tree_17
+  rotate: false
+  xy: 1962, 1452
+  size: 60, 93
+  orig: 60, 93
+  offset: 0, 0
+  index: -1
+tree_18a
+  rotate: true
+  xy: 1134, 748
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+tree_19
+  rotate: true
+  xy: 1728, 617
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+tree_2
+  rotate: true
+  xy: 1236, 765
+  size: 56, 112
+  orig: 56, 112
+  offset: 0, 0
+  index: -1
+tree_20
+  rotate: true
+  xy: 1271, 373
+  size: 77, 63
+  orig: 77, 63
+  offset: 0, 0
+  index: -1
+tree_21
+  rotate: true
+  xy: 1728, 489
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+tree_22
+  rotate: true
+  xy: 1336, 365
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+tree_23
+  rotate: true
+  xy: 1728, 755
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+tree_24
+  rotate: true
+  xy: 1342, 533
+  size: 116, 118
+  orig: 116, 118
+  offset: 0, 0
+  index: -1
+tree_3a
+  rotate: true
+  xy: 1962, 1383
+  size: 67, 62
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+tree_4
+  rotate: true
+  xy: 1271, 452
+  size: 89, 69
+  orig: 89, 69
+  offset: 0, 0
+  index: -1
+tree_5
+  rotate: true
+  xy: 738, 2
+  size: 331, 199
+  orig: 331, 199
+  offset: 0, 0
+  index: -1
+tree_6
+  rotate: true
+  xy: 1129, 371
+  size: 143, 140
+  orig: 143, 140
+  offset: 0, 0
+  index: -1
+tree_7
+  rotate: false
+  xy: 1897, 859
+  size: 116, 129
+  orig: 116, 129
+  offset: 0, 0
+  index: -1
+tree_8
+  rotate: false
+  xy: 1468, 495
+  size: 258, 306
+  orig: 258, 306
+  offset: 0, 0
+  index: -1
+treee
+  rotate: false
+  xy: 1785, 991
+  size: 115, 268
+  orig: 115, 268
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 3
+  size: 66, 21
+  orig: 66, 21
+  offset: 0, 0
+  index: -1
+water_1
+  rotate: true
+  xy: 2018, 2000
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+water_2
+  rotate: false
+  xy: 1862, 786
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+water_3
+  rotate: true
+  xy: 1652, 803
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1

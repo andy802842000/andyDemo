@@ -1,0 +1,62 @@
+
+MainGame_Background_Landscape.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_sky
+  rotate: false
+  xy: 2, 1012
+  size: 1336, 752
+  orig: 1336, 752
+  offset: 0, 0
+  index: -1
+clouds
+  rotate: true
+  xy: 1340, 126
+  size: 1336, 115
+  orig: 1336, 115
+  offset: 0, 0
+  index: -1
+grasses
+  rotate: true
+  xy: 1026, 126
+  size: 130, 101
+  orig: 130, 101
+  offset: 0, 0
+  index: -1
+house
+  rotate: false
+  xy: 2, 258
+  size: 1336, 752
+  orig: 1336, 752
+  offset: 0, 0
+  index: -1
+light_rays
+  rotate: true
+  xy: 1340, 1464
+  size: 300, 295
+  orig: 300, 295
+  offset: 0, 0
+  index: -1
+tree_1
+  rotate: false
+  xy: 553, 17
+  size: 281, 239
+  orig: 281, 239
+  offset: 0, 0
+  index: -1
+tree_4
+  rotate: false
+  xy: 2, 2
+  size: 549, 254
+  orig: 549, 254
+  offset: 0, 0
+  index: -1
+tree_cut_00
+  rotate: true
+  xy: 836, 37
+  size: 219, 188
+  orig: 219, 188
+  offset: 0, 0
+  index: -1

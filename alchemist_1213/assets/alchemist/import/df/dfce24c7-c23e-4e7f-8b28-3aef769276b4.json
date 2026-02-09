@@ -1,0 +1,94 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "zh-CHT",
+      {
+        "CREDIT": "餘額",
+        "BET": "注額",
+        "SPIN_TO_WIN": "點選來中獎 !",
+        "GOOD_LUCK": "祝你好運",
+        "PAYS": "支付",
+        "WIN": "贏取",
+        "TOTAL_WIN": "總贏取",
+        "LINE": "線",
+        "SYSTEM_SETTINGS": "系統設定",
+        "GAME_INFO": "遊戲規則",
+        "TOTAL_BET": "總下注額",
+        "QUICK_SPIN": "快速旋轉",
+        "SOUND": "音效",
+        "MUSIC": "音樂",
+        "QUICK_SPIN_INFO": "通過縮短總旋轉時間\n加快遊戲速度",
+        "SOUND_INFO": "打開或關閉遊戲音效",
+        "MUSIC_INFO": "打開或關閉遊戲音樂",
+        "AUTOPLAY_SETTINGS": "自動下注設置",
+        "AUTOSTOP_SETTINGS": "自動停止設定",
+        "BONUS_CONTINUES": "自動進入小遊戲",
+        "SKIP_SCREENS": "跳過動畫表演",
+        "AUTO_QUICK_SPIN": "快速旋轉",
+        "AUTO_CREDIT": "餘  額    ",
+        "NUMBER_OF_AUTOSPINS": "自動下注次數",
+        "START_AUTOPLAY": "開始自動下注",
+        "OK": "確認",
+        "MysterPage_Tip1": "恭喜!",
+        "MysterPage_Tip2": "您已獲得",
+        "MysterPage_Tip3": "MONEY BAG 獎勵",
+        "InfoPage1_Scatter": "在2,3,4軸上出現9個scatter將贏得7次免費旋轉次數",
+        "InfoPage1_Stacked_Symbol": "除了分散符號外，所有滾輪上的全部符號都會堆疊在一起",
+        "InfoPage2_Title": "Bonus Zone",
+        "InfoPage2_Text1": "在免費轉動期間,在滾軸3的中間位置會變成\n獎金區域. 還有3個獎金池- 每種符號各一個",
+        "InfoPage2_Text2": "當\n落入獎金區域時,\n即可贏得符號獎品獎勵且符號獎勵也會增加",
+        "InfoPage2_Text3": "當\n落入獎金區域時,即可贏得所有三種符號獎品獎勵,所有符號獎勵將會增加",
+        "InfoPage3_Text1": "在1,2,3,4,5軸上出現,獲得3個\n符號,將可進入獎金遊戲",
+        "InfoPage3_Text2": "獎金遊戲中,基本會獲得觸發獎金\n遊戲的三顆魔法水珠,以及獲得水\n珠上對應的獎金獎勵\n會依序在空的位置旋轉看是否獲\n得新的魔法水珠及對應獎金\n每次旋轉會消耗一個能量條,當三\n個能量條清空為結束遊戲\n任意旋轉過程中只要有獲得1個魔\n法水珠,能量條將會補滿.\n遊戲結束時,可獲得所有魔法水珠上\n的總獎金",
+        "InfoPage5_Text1": "會出現在1,2,3,4,5軸\n可替代除了SCATTER及BONUS之外的其他符號",
+        "StartPage1_Tip1": "免費旋轉期間出現在轉軸 2、3、4、5 上的百搭乘數符號將保留在它們出現的轉軸上，直到免費遊戲結束",
+        "StartPage2_Tip1": "在免費遊戲期間，每出現 4 個百搭乘數符號，將獎勵 2 次額外的免費旋轉",
+        "InfoPage1_Tip1": "免費旋轉期間出現在轉軸 2、3、4、5 上的百搭乘數符號將保留在它們出現的轉軸上，直到免費遊戲結束",
+        "InfoPage2_Tip1": "在免費遊戲期間，每出現 4 個百搭乘數符號，將獎勵 2 次額外的免費旋轉",
+        "InfoPage3_Title1": "百搭符號",
+        "InfoPage3_Tip1": "百搭符號可以替代除了獎勵符號以外的所有符號\n百搭符號只會出現在第2、3、4及5轉軸\n每次百搭符號出現隨機為X1、X2或X3倍率，當支付賠付時該\n一中獎線有一個或多個百搭符號，即按其倍率相乘來支付\n",
+        "InfoPage3_Title2": "獎勵符號",
+        "InfoPage3_Tip2": "獎勵符號出現在任一輪軸上，出現3個以上可觸發免費遊戲\n出現3個或更多的獎勵符號，獲得押注5倍獎勵\n",
+        "InfoPage3_Title3": "免費遊戲",
+        "InfoPage3_Tip3": "出現3、4、5個獎勵符號將獲得8、12、16次免費遊戲\n免費遊戲中出現的百搭符號將會停留在出現的輪軸上，直到免費遊戲結束\n出現的百搭符號超過4、8、10個以上時，都將額外加贈2次免費遊戲",
+        "InfoPage4_Title1": "最高賠率",
+        "InfoPage4_Tip1": "不論在基本遊戲或免費遊戲中，\n當次賠付達到5000倍時都將立即中斷",
+        "InfoPage4_Title2": "購買免費遊戲",
+        "InfoPage4_Tip2": "支付100倍注額購買免費遊戲，\n購買後觸發轉軸出現3、4或5個獎勵符號，\n獲得8、12或16次免費遊戲\n",
+        "InsufficientCredit": "餘額不足",
+        "HOME": "退出遊戲",
+        "HISTORY": "投注歷史",
+        "InfoTitle_PayTable": "賠付表",
+        "BuyFreeGameConfirmPage_Tip1": "確認購買",
+        "BuyFreeSpinBtn_Tip1": "購買\n免費\n遊戲"
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

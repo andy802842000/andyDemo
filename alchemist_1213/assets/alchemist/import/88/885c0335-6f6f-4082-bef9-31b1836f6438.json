@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "09HPTqTP5HfKmuTBA5OXJD"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "INFO_A",
+      "rect": [
+        15,
+        13,
+        970,
+        584
+      ],
+      "offset": [
+        0,
+        -5
+      ],
+      "originalSize": [
+        1000,
+        600
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

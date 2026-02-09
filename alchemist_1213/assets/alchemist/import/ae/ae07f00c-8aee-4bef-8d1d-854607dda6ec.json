@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "8bK/yfMCFBR4p5RvZ9vqmD"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "text_leave",
+      "rect": [
+        4,
+        3,
+        33,
+        33
+      ],
+      "offset": [
+        0.5,
+        0.5
+      ],
+      "originalSize": [
+        40,
+        40
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

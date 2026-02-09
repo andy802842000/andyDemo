@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "22fuIz5UhAjJM8DGpcXTRU"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "OK_background_btn_560x85",
+      "rect": [
+        6,
+        6,
+        548,
+        70
+      ],
+      "offset": [
+        0,
+        1.5
+      ],
+      "originalSize": [
+        560,
+        85
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

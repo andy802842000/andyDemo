@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "7cv4zLotlIFrPGXmi8ykAX"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "wk_loading_background",
+      "rect": [
+        8,
+        6,
+        484,
+        315
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        500,
+        326
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

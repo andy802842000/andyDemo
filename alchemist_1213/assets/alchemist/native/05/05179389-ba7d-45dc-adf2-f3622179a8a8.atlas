@@ -1,0 +1,349 @@
+
+Background_Dog.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_4/band
+  rotate: false
+  xy: 421, 171
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+3_4/belt
+  rotate: false
+  xy: 375, 171
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 375, 171
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+3_4/body
+  rotate: true
+  xy: 360, 64
+  size: 73, 71
+  orig: 73, 71
+  offset: 0, 0
+  index: -1
+3_4/ear
+  rotate: true
+  xy: 196, 2
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+3_4/ear_l
+  rotate: true
+  xy: 205, 124
+  size: 43, 74
+  orig: 43, 74
+  offset: 0, 0
+  index: -1
+3_4/eye_ball_l
+  rotate: false
+  xy: 492, 132
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+3_4/eye_ball_r
+  rotate: false
+  xy: 510, 113
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+3_4/eye_l
+  rotate: false
+  xy: 502, 234
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+3_4/eye_r
+  rotate: true
+  xy: 534, 189
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+3_4/face
+  rotate: false
+  xy: 205, 169
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+3_4/hair_1
+  rotate: true
+  xy: 457, 74
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+3_4/hair_2
+  rotate: true
+  xy: 479, 74
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+3_4/heart
+  rotate: true
+  xy: 492, 111
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+heart
+  rotate: true
+  xy: 492, 111
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+3_4/leg_1
+  rotate: true
+  xy: 281, 124
+  size: 43, 73
+  orig: 43, 73
+  offset: 0, 0
+  index: -1
+3_4/leg_2
+  rotate: false
+  xy: 433, 78
+  size: 22, 61
+  orig: 22, 61
+  offset: 0, 0
+  index: -1
+3_4/leg_3
+  rotate: true
+  xy: 356, 139
+  size: 30, 66
+  orig: 30, 66
+  offset: 0, 0
+  index: -1
+3_4/leg_4
+  rotate: true
+  xy: 444, 176
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+3_4/mouth
+  rotate: true
+  xy: 427, 206
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+3_4/nick
+  rotate: false
+  xy: 208, 56
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+3_4/shadow
+  rotate: true
+  xy: 140, 131
+  size: 123, 63
+  orig: 123, 63
+  offset: 0, 0
+  index: -1
+3_4/tail
+  rotate: true
+  xy: 418, 8
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+band
+  rotate: true
+  xy: 502, 212
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 4
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 270, 3
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+ear_l
+  rotate: true
+  xy: 342, 13
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+eye_ball_l
+  rotate: false
+  xy: 511, 135
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+eye_ball_r
+  rotate: false
+  xy: 519, 95
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+eye_blink_l
+  rotate: true
+  xy: 523, 211
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+eye_blink_r
+  rotate: true
+  xy: 543, 212
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 488, 55
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: true
+  xy: 501, 91
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 292, 171
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 544, 235
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 523, 234
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: true
+  xy: 424, 141
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: true
+  xy: 487, 152
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+lips
+  rotate: false
+  xy: 140, 118
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 457, 98
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+mouth_new
+  rotate: false
+  xy: 496, 181
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+mouth_new1
+  rotate: true
+  xy: 465, 211
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+nick
+  rotate: false
+  xy: 284, 56
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 80, 53
+  size: 126, 63
+  orig: 126, 63
+  offset: 0, 0
+  index: -1
+shadow_dog_puppy
+  rotate: false
+  xy: 80, 10
+  size: 114, 41
+  orig: 114, 41
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 2, 118
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 375, 194
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: true
+  xy: 164, 119
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+tongue_new
+  rotate: true
+  xy: 501, 74
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1

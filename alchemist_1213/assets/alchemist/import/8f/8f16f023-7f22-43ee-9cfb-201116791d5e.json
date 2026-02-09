@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "0fZ0oVC7lHBoxb+qqFUHfZ"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "MainGame_Background_Portrait2",
+      "rect": [
+        2,
+        2,
+        1505,
+        1964
+      ],
+      "offset": [
+        -269.5,
+        40
+      ],
+      "originalSize": [
+        2048,
+        2048
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,55 @@
+
+Anticipation.png
+size: 375,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+burst
+  rotate: true
+  xy: 2, 2
+  size: 187, 136
+  orig: 187, 136
+  offset: 0, 0
+  index: -1
+lightning_1_y
+  rotate: true
+  xy: 2, 250
+  size: 30, 354
+  orig: 32, 355
+  offset: 1, 1
+  index: -1
+lightning_2_y
+  rotate: true
+  xy: 2, 191
+  size: 26, 354
+  orig: 27, 355
+  offset: 0, 1
+  index: -1
+lightning_3_y
+  rotate: true
+  xy: 2, 282
+  size: 29, 356
+  orig: 30, 356
+  offset: 0, 0
+  index: -1
+lightning_4_y
+  rotate: true
+  xy: 2, 219
+  size: 29, 354
+  orig: 30, 355
+  offset: 1, 1
+  index: -1
+star
+  rotate: true
+  xy: 231, 49
+  size: 140, 142
+  orig: 146, 148
+  offset: 3, 3
+  index: -1
+tail
+  rotate: true
+  xy: 140, 36
+  size: 153, 89
+  orig: 153, 89
+  offset: 0, 0
+  index: -1

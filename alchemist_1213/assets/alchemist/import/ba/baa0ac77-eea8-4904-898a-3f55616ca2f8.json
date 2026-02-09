@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "ccDQ0FlslBZbkv5R1BhYtM"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "message_background_400X286",
+      "rect": [
+        0,
+        2,
+        400,
+        284
+      ],
+      "offset": [
+        0,
+        -1
+      ],
+      "originalSize": [
+        400,
+        286
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

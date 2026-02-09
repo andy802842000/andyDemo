@@ -1,0 +1,260 @@
+[
+  1,
+  [
+    "9d4m17zjFOyqP+HFKx5+O0",
+    "29xmsMt+lHDYmzhVhorAgq",
+    "63PiTATXJBtJ6UXFkjuwgI",
+    "e3djb9td9NaJrCgP9vNbeq",
+    "a7Nf1BxXZAyIKg/pigPCO/",
+    "6bl6PFreJF3IYMOHwrVWcY"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "Right",
+          "rect": [
+            1,
+            1,
+            70,
+            575
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            72,
+            577
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Top",
+          "rect": [
+            1,
+            1,
+            1085,
+            24
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            1087,
+            26
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Bottom",
+          "rect": [
+            1,
+            1,
+            1085,
+            24
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            1087,
+            26
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        2
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Divider",
+          "rect": [
+            0,
+            1,
+            36,
+            586
+          ],
+          "offset": [
+            0,
+            -0.5
+          ],
+          "originalSize": [
+            36,
+            587
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        3
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Background",
+          "rect": [
+            1,
+            1,
+            946,
+            567
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            948,
+            569
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        4
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Left",
+          "rect": [
+            1,
+            1,
+            70,
+            575
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            72,
+            577
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        5
+      ]
+    ]
+  ]
+]

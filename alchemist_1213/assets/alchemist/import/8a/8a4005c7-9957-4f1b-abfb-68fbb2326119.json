@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "fffsODtO9OLYoFV1/xBQzr"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "arrow-r-upon",
+      "rect": [
+        2,
+        2,
+        92,
+        147
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        96,
+        150
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,48 @@
+
+wfx_bonusGame.png
+size: 1338, 796
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+back
+  rotate: false
+  xy: 2, 451
+  size: 1334, 343
+  orig: 1334, 363
+  offset: 0, 7
+  index: -1
+black
+  rotate: false
+  xy: 974, 62
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bonusGame
+  rotate: false
+  xy: 712, 192
+  size: 624, 257
+  orig: 632, 264
+  offset: 3, 4
+  index: -1
+door
+  rotate: false
+  xy: 2, 63
+  size: 708, 386
+  orig: 718, 402
+  offset: 0, 7
+  index: -1
+light_H
+  rotate: false
+  xy: 712, 2
+  size: 260, 188
+  orig: 284, 188
+  offset: 17, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 13
+  size: 49, 48
+  orig: 55, 55
+  offset: 3, 4
+  index: -1

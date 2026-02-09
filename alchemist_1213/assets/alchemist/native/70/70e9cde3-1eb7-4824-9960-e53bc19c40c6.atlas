@@ -1,0 +1,76 @@
+
+wingaming.png
+size: 200,825
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: true
+  xy: 2, 135
+  size: 133, 75
+  orig: 133, 75
+  offset: 0, 0
+  index: -1
+ga
+  rotate: true
+  xy: 101, 383
+  size: 195, 97
+  orig: 195, 97
+  offset: 0, 0
+  index: -1
+in
+  rotate: true
+  xy: 2, 402
+  size: 140, 97
+  orig: 140, 97
+  offset: 0, 0
+  index: -1
+ing
+  rotate: true
+  xy: 101, 580
+  size: 243, 97
+  orig: 243, 97
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 79, 175
+  size: 112, 21
+  orig: 112, 21
+  offset: 0, 0
+  index: -1
+m
+  rotate: true
+  xy: 2, 270
+  size: 130, 97
+  orig: 130, 97
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 79, 198
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+w
+  rotate: true
+  xy: 101, 251
+  size: 130, 97
+  orig: 130, 97
+  offset: 0, 0
+  index: -1
+win
+  rotate: true
+  xy: 2, 544
+  size: 279, 97
+  orig: 279, 97
+  offset: 0, 0
+  index: -1
+x
+  rotate: true
+  xy: 2, 2
+  size: 131, 194
+  orig: 131, 194
+  offset: 0, 0
+  index: -1

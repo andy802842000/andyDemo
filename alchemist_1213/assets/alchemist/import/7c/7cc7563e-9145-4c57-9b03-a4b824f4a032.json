@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "71EvOOEJ9HQ5YYgFAR8Wlv"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "btn_cancel",
+      "rect": [
+        0,
+        0,
+        40,
+        74
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        74
+      ],
+      "capInsets": [
+        15,
+        32,
+        14,
+        32
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

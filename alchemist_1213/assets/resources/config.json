@@ -1,0 +1,24 @@
+{
+    "paths": {},
+    "uuids": [
+        "7fZQSTMrtGYKuNjKtjiTv8",
+        "ecpdLyjvZBwrvm+cedCcQy"
+    ],
+    "scenes": {
+        "db://assets/resources/LoadBundleScene.fire": "7fZQSTMrtGYKuNjKtjiTv8"
+    },
+    "redirect": [
+        "ecpdLyjvZBwrvm+cedCcQy",
+        0
+    ],
+    "deps": [
+        "internal"
+    ],
+    "packs": {},
+    "name": "resources",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false
+}

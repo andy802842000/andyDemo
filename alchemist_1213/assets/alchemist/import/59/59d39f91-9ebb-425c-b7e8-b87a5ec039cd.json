@@ -1,0 +1,94 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "vi-VN",
+      {
+        "CREDIT": "tín dụng",
+        "BET": "cược",
+        "SPIN_TO_WIN": "quay để bắt đầu",
+        "GOOD_LUCK": "chúc may mắn",
+        "PAYS": "thanh toán",
+        "WIN": "thắng lợi",
+        "TOTAL_WIN": "tổng thắng",
+        "LINE": "hàng",
+        "SYSTEM_SETTINGS": "Cài đặt hệ thống",
+        "GAME_INFO": "Thông tin trò chơi",
+        "TOTAL_BET": "tổng tiền cược",
+        "QUICK_SPIN": "quay nhanh",
+        "SOUND": "âm thanh",
+        "MUSIC": "Âm nhạc",
+        "QUICK_SPIN_INFO": "giảm tổng thời gian vắt",
+        "SOUND_INFO": "tắt hoặc bật âm thanh",
+        "MUSIC_INFO": "tắt hoặc bật nhạc",
+        "AUTOPLAY_SETTINGS": "cài đặt tự động phát",
+        "AUTOSTOP_SETTINGS": "Cài đặt tự động đăng",
+        "BONUS_CONTINUES": "tiền thưởng tiếp tục",
+        "SKIP_SCREENS": "bỏ qua\nmàn hình",
+        "AUTO_QUICK_SPIN": "quay\nnhanh",
+        "AUTO_CREDIT": "tín dụng",
+        "NUMBER_OF_AUTOSPINS": "số vòng quay tự động",
+        "START_AUTOPLAY": "tự chạy",
+        "OK": "Vâng",
+        "MysterPage_Tip1": "Xin chúc mừng!",
+        "MysterPage_Tip2": "Bạn đã thắng một phần thưởng ",
+        "MysterPage_Tip3": " MONEY BAG ",
+        "InfoPage1_Scatter": "9 SCATTER xuất hiện trên guồng 2, 3, 4, người chơi được trao 7 vòng quay miễn phí.",
+        "InfoPage1_Stacked_Symbol": "Tất cả biểu tượng và guồng quay được xếp chồng, trừ biểu tượng Scatter.",
+        "InfoPage2_Title": "Vùng Thưởng",
+        "InfoPage2_Text1": "Trong vòng quay miễn phí, phần giữa guồng 3 trở thành Vùng Thưởng. Có 3 tổng giải thưởng - một cho mỗi biểu tượng.",
+        "InfoPage2_Text2": "Khi     \nrơi vào Vùng Thưởng, bạn có thể thắng phần thưởng tương ứng với biểu tượng\nvà phần thưởng biểu tượng sẽ tăng lên.",
+        "InfoPage2_Text3": "Khi     \nrơi vào Vùng Thưởng, tất cả ba biểu tượng sẽ được traon\nvà tất cả giải thưởng biểu tượng sẽ tăng lên.",
+        "InfoPage3_Text1": "Xuất hiện trên guồng 1, 2, 3, 4, 5, thu thập 3 biểu tượng trở lên để tham gia ván chơi thưởng",
+        "InfoPage3_Text2": "Trong ván chơi thưởng, 3 quả cầu ma thuật sẽ được thưởng tương ứng với phần thưởng trên quả cầu ma thuật.\nCó khả năng quả cầu ma thuật sẽ rơi vào bất kỳ vị trí trống nào với tiền thưởng tương ứng của chúng.\nMỗi vòng quay tiêu thụ một thanh năng lượng, trò chơi kết thúc khi ba thanh năng lượng bị xóa.\nMiễn bạn nhận được 1 quả cầu ma thuật trong vòng quay bất kỳ, thanh năng lượng sẽ được lấp đầy.\nKhi trò chơi kết thúc, tổng thưởng trên quả cầu ma thuật sẽ được trao. ",
+        "InfoPage5_Text1": "sẽ xuất hiện trên các trục\n1, 2, 3, 4, 5Thay thế cho các biểu tượng khác ngoài SCATTER và BONUS",
+        "StartPage1_Tip1": "Biểu tượng số nhân Wild xuất hiện trên các guồng 2, 3, 4, 5 trong vòng quay miễn phí sẽ ở lại trên các guồng nơi chúng xuất hiện cho đến khi kết thúc ván chơi miễn phí",
+        "StartPage2_Tip1": "Trong các ván chơi miễn phí, 2 vòng quay miễn phí bổ sung sẽ được trao cho mỗi 4 biểu tượng số nhân Wild xuất hiện",
+        "InfoPage1_Tip1": "Biểu tượng số nhân Wild xuất hiện trên các guồng 2, 3, 4, 5 trong vòng quay miễn phí sẽ ở lại trên các guồng nơi chúng xuất hiện cho đến khi kết thúc ván chơi miễn phí",
+        "InfoPage2_Tip1": "Trong các ván chơi miễn phí, 2 vòng quay miễn phí bổ sung sẽ được trao cho mỗi 4 biểu tượng số nhân Wild xuất hiện",
+        "InfoPage3_Title1": "Biểu tượng Wild",
+        "InfoPage3_Tip1": "Biểu tượng wild có thể thay thế tất cả các biểu tượng ngoại trừ Scatters;\nbiểu tượng wild sẽ chỉ xuất hiện trên các guồng thứ 2, 3, 4 và 5\nMỗi khi biểu tượng wild xuất hiện, nó sẽ được nhân ngẫu nhiên với\nX1, X2 hoặc X3. Trong trả thưởng, nếu có nhiều hơn một biểu tượng\nWild trên dòng chiến thắng, số nhân sẽ được nhân lên trong\nkhi trả thưởng",
+        "InfoPage3_Title2": "Biểu tượng Thưởng",
+        "InfoPage3_Tip2": "3 biểu tượng thưởng trở lên xuất hiện trên bất kỳ\nguồng quay nào sẽ kích hoạt Vòng quay miễn phí\nKhi 3 biểu tượng thưởng trở lên xuất hiện, nhận\ngấp 5 lần phần thưởng cược",
+        "InfoPage3_Title3": "Ván chơi miễn phí",
+        "InfoPage3_Tip3": "Khi 3, 4 hoặc 5 biểu tượng thưởng xuất hiện sẽ được thưởng 8, 12 hoặc 16 vòng\nquay miễn phí Biểu tượng Wild xuất hiện trong một vòng quay miễn phí sẽ ở\nlại trên các guồng quay nơi chúng xuất hiện cho đến khi kết thúc ván chơi miễn phí\nKhi có hơn 4, 8 hoặc 10 biểu tượng Wild, bạn sẽ được tặng thêm 2 ván chơimiễn phí",
+        "InfoPage4_Title1": "Thắng tối đa",
+        "InfoPage4_Tip1": "Bất kể trong ván chơi thường hoặc ván chơi\nmiễn phí, khi khoản thanh toán đạt đến 5.000 lần,\nnó sẽ bị gián đoạn và thanh toán ngay lập tức",
+        "InfoPage4_Title2": "Mua Vòng quay miễn phí",
+        "InfoPage4_Tip2": "Vòng CHƠI VÒNG QUAY MIỄN PHÍ có thể được kích hoạtngay lập\ntức từ ván chơi chính bằng cách mua nó với 100 x tổng tiền\ncược hiện tại. Khi mua tính năng VÒNG QUAY MIỄN PHÍ, 3, 4\nhoặc 5 biểu tượng SCATTER có thể quay ngẫu nhiên trên màn\nhình kích hoạt và được tặng 8, 12 hoặc 16 vòng quay miễn phí.\nDòng trả thưởng",
+        "InsufficientCredit": "Không đủ tín dụng để chơi",
+        "HOME": "Thoát trò chơi",
+        "HISTORY": "lịch sử đặt cược",
+        "InfoTitle_PayTable": "Bảng trả thưởng",
+        "BuyFreeGameConfirmPage_Tip1": "XÁC NHẬN CÓ MUA\nHAY KHÔNG",
+        "BuyFreeSpinBtn_Tip1": "Mua\nVòng\nQuay\nMiễn\nphí"
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

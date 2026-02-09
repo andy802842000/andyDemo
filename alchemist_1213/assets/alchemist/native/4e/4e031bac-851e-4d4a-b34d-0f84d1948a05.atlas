@@ -1,0 +1,34 @@
+
+payline.png
+size: 1124,414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightning_1
+  rotate: false
+  xy: 2, 311
+  size: 1120, 101
+  orig: 1120, 101
+  offset: 0, 0
+  index: -1
+lightning_2
+  rotate: false
+  xy: 2, 208
+  size: 1120, 101
+  orig: 1120, 101
+  offset: 0, 0
+  index: -1
+lightning_3
+  rotate: false
+  xy: 2, 105
+  size: 1120, 101
+  orig: 1120, 101
+  offset: 0, 0
+  index: -1
+lightning_4
+  rotate: false
+  xy: 2, 2
+  size: 1120, 101
+  orig: 1120, 101
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "933d4OSn5IH4BMbZsDsOhv"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "btn_confirm",
+      "rect": [
+        0,
+        0,
+        40,
+        74
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        74
+      ],
+      "capInsets": [
+        15,
+        32,
+        14,
+        32
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

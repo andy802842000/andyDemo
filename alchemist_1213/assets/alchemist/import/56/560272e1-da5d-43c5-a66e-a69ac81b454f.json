@@ -1,0 +1,266 @@
+[
+  1,
+  [
+    "d9iRvhl/xKaLY4fTWVJoSs"
+  ],
+  0,
+  [
+    [
+      "sp.SkeletonData",
+      [
+        "_name",
+        "_atlasText",
+        "textureNames",
+        "_skeletonJson",
+        "textures"
+      ],
+      -1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  [
+    [
+      0,
+      "H2",
+      "H2.png\nsize: 215,144\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nbig_base\n  rotate: false\n  xy: 2, 2\n  size: 140, 140\n  orig: 142, 142\n  offset: 1, 1\n  index: -1\nmushroom_cap\n  rotate: true\n  xy: 144, 41\n  size: 101, 69\n  orig: 103, 71\n  offset: 1, 1\n  index: -1\nmushroom_stick\n  rotate: true\n  xy: 144, 10\n  size: 29, 47\n  orig: 33, 49\n  offset: 2, 1\n  index: -1\n",
+      [
+        "H2.png"
+      ],
+      {
+        "skeleton": {
+          "hash": "3dYPK+FRe38tvqkmme1HUntLVkM",
+          "spine": "3.8.99",
+          "x": -71,
+          "y": -71,
+          "width": 142,
+          "height": 142,
+          "images": "../icon/images/",
+          "audio": ""
+        },
+        "bones": [
+          {
+            "name": "root"
+          },
+          {
+            "name": "symbol_7",
+            "parent": "root"
+          },
+          {
+            "name": "cap",
+            "parent": "symbol_7",
+            "y": 14.62
+          }
+        ],
+        "slots": [
+          {
+            "name": "big_base",
+            "bone": "root",
+            "attachment": "big_base"
+          },
+          {
+            "name": "mushroom_cap",
+            "bone": "cap",
+            "attachment": "mushroom_cap"
+          },
+          {
+            "name": "mushroom_stick",
+            "bone": "symbol_7",
+            "attachment": "mushroom_stick"
+          }
+        ],
+        "skins": [
+          {
+            "name": "default",
+            "attachments": {
+              "big_base": {
+                "big_base": {
+                  "width": 142,
+                  "height": 142
+                }
+              },
+              "mushroom_cap": {
+                "mushroom_cap": {
+                  "x": -0.53,
+                  "y": 5.83,
+                  "width": 103,
+                  "height": 71
+                }
+              },
+              "mushroom_stick": {
+                "mushroom_stick": {
+                  "x": -0.53,
+                  "y": -18.52,
+                  "width": 33,
+                  "height": 49
+                }
+              }
+            }
+          }
+        ],
+        "animations": {
+          "ilde": {},
+          "normal": {
+            "bones": {
+              "symbol_7": {
+                "translate": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "y": -3.08,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.7333,
+                    "y": 26.3,
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.9333,
+                    "y": 26.3,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 1.1667,
+                    "y": -3.08,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 1.5,
+                    "y": 3.08,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 2
+                  }
+                ],
+                "scale": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.5,
+                    "x": 1.15,
+                    "y": 0.9,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 0.7333,
+                    "x": 1.2,
+                    "y": 1.3,
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.9333,
+                    "x": 1.2,
+                    "y": 1.3,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 1.1667,
+                    "x": 1.05,
+                    "y": 0.95,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 1.5,
+                    "y": 1.05,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 2
+                  }
+                ]
+              },
+              "cap": {
+                "translate": [
+                  {},
+                  {
+                    "time": 0.5,
+                    "y": -3.14
+                  },
+                  {
+                    "time": 0.7333,
+                    "y": 1.05,
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.9333,
+                    "y": 1.05
+                  },
+                  {
+                    "time": 1.1667,
+                    "y": -1.06
+                  },
+                  {
+                    "time": 1.5
+                  }
+                ],
+                "scale": [
+                  {},
+                  {
+                    "time": 0.5,
+                    "x": 1.1
+                  },
+                  {
+                    "time": 0.7333,
+                    "y": 1.1,
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 0.9333,
+                    "y": 1.1
+                  },
+                  {
+                    "time": 1.1667,
+                    "x": 1.05,
+                    "y": 1.1
+                  },
+                  {
+                    "time": 1.5
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      [
+        0
+      ]
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    -1
+  ],
+  [
+    0
+  ]
+]

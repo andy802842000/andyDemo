@@ -1,0 +1,62 @@
+
+BN.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 148, 81
+  size: 168, 127
+  orig: 168, 127
+  offset: 0, 0
+  index: -1
+bone
+  rotate: false
+  xy: 148, 7
+  size: 93, 72
+  orig: 93, 72
+  offset: 0, 0
+  index: -1
+bonus_text
+  rotate: true
+  xy: 277, 100
+  size: 149, 104
+  orig: 149, 104
+  offset: 0, 0
+  index: -1
+bowl
+  rotate: false
+  xy: 337, 2
+  size: 120, 96
+  orig: 120, 96
+  offset: 0, 0
+  index: -1
+food_1
+  rotate: false
+  xy: 243, 12
+  size: 92, 67
+  orig: 92, 67
+  offset: 0, 0
+  index: -1
+frrame
+  rotate: true
+  xy: 2, 62
+  size: 187, 144
+  orig: 187, 144
+  offset: 0, 0
+  index: -1
+shadow_bone
+  rotate: false
+  xy: 383, 150
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+star_yellow
+  rotate: true
+  xy: 2, 11
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "e5fBOPUFBJl75PedXlQJrF"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "blurS2",
+      "rect": [
+        0,
+        1,
+        140,
+        135
+      ],
+      "offset": [
+        0,
+        1.5
+      ],
+      "originalSize": [
+        140,
+        140
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

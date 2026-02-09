@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "d7VKLtFYBNG5IKldUocJ4+"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "close_background_btn",
+      "rect": [
+        4,
+        3,
+        92,
+        49
+      ],
+      "offset": [
+        0.5,
+        0
+      ],
+      "originalSize": [
+        99,
+        55
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

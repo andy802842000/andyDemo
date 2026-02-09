@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "a1foV9JAJJ64S8TKol4Eeo"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "under-bar",
+      "rect": [
+        0,
+        1,
+        636,
+        81
+      ],
+      "offset": [
+        -1,
+        0.5
+      ],
+      "originalSize": [
+        638,
+        84
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "76fuiZsvBJFLYmgfBSpHqt"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "PayTable",
+      "rect": [
+        316,
+        91,
+        733,
+        568
+      ],
+      "offset": [
+        15.5,
+        0
+      ],
+      "originalSize": [
+        1334,
+        750
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

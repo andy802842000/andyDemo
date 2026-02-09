@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "55C4hom6JFpIT2+KZEK3Y6"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "spin_btn_touch",
+      "rect": [
+        1,
+        1,
+        148,
+        149
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        150,
+        150
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

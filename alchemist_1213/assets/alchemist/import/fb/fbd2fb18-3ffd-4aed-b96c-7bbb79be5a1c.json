@@ -1,0 +1,1081 @@
+[
+  1,
+  [
+    "823o3I9HdAJ7ugddMcB602"
+  ],
+  0,
+  [
+    [
+      "sp.SkeletonData",
+      [
+        "_name",
+        "_atlasText",
+        "scale",
+        "textureNames",
+        "_skeletonJson",
+        "textures"
+      ],
+      -2,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  ],
+  [
+    [
+      0,
+      "Anticipation",
+      "\nAnticipation.png\nsize: 375,313\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nburst\n  rotate: true\n  xy: 2, 2\n  size: 187, 136\n  orig: 187, 136\n  offset: 0, 0\n  index: -1\nlightning_1_y\n  rotate: true\n  xy: 2, 250\n  size: 30, 354\n  orig: 32, 355\n  offset: 1, 1\n  index: -1\nlightning_2_y\n  rotate: true\n  xy: 2, 191\n  size: 26, 354\n  orig: 27, 355\n  offset: 0, 1\n  index: -1\nlightning_3_y\n  rotate: true\n  xy: 2, 282\n  size: 29, 356\n  orig: 30, 356\n  offset: 0, 0\n  index: -1\nlightning_4_y\n  rotate: true\n  xy: 2, 219\n  size: 29, 354\n  orig: 30, 355\n  offset: 1, 1\n  index: -1\nstar\n  rotate: true\n  xy: 231, 49\n  size: 140, 142\n  orig: 146, 148\n  offset: 3, 3\n  index: -1\ntail\n  rotate: true\n  xy: 140, 36\n  size: 153, 89\n  orig: 153, 89\n  offset: 0, 0\n  index: -1\n",
+      0.9,
+      [
+        "Anticipation.png"
+      ],
+      {
+        "skeleton": {
+          "hash": "xVam6KpWUHMseoiTPyfAryZuGF8",
+          "spine": "3.8.99",
+          "x": -163.54,
+          "y": -327.46,
+          "width": 335.77,
+          "height": 648.5,
+          "images": "../icon/images/",
+          "audio": "C:/Users/Sylph/Desktop/spine"
+        },
+        "bones": [
+          {
+            "name": "root",
+            "x": 2.64,
+            "y": -2.64
+          },
+          {
+            "name": "frame",
+            "parent": "root"
+          },
+          {
+            "name": "burst right",
+            "parent": "frame",
+            "x": -23,
+            "y": -301.25,
+            "scaleX": 0.6,
+            "scaleY": 0.3
+          },
+          {
+            "name": "burst left",
+            "parent": "frame",
+            "x": 23,
+            "y": -301.25,
+            "scaleX": 0.6,
+            "scaleY": 0.3
+          },
+          {
+            "name": "star",
+            "parent": "frame",
+            "length": 100,
+            "rotation": 90,
+            "y": -280.92,
+            "scaleX": 0.12,
+            "scaleY": 0.6
+          },
+          {
+            "name": "lightning",
+            "parent": "frame",
+            "x": -86.46,
+            "y": -302.77,
+            "scaleY": 0.7
+          },
+          {
+            "name": "lightning2",
+            "parent": "frame",
+            "rotation": 180,
+            "x": -86.46,
+            "y": 302.13,
+            "scaleY": 0.7
+          },
+          {
+            "name": "lightning3",
+            "parent": "frame",
+            "rotation": 180,
+            "x": 86.46,
+            "y": 302.13,
+            "scaleY": 0.7
+          },
+          {
+            "name": "lightning4",
+            "parent": "frame",
+            "x": 86.46,
+            "y": -302.77,
+            "scaleY": 0.7
+          },
+          {
+            "name": "tail",
+            "parent": "frame",
+            "rotation": -90,
+            "x": 87.25,
+            "y": 447.36,
+            "scaleX": 1.8,
+            "scaleY": 0.7
+          },
+          {
+            "name": "tail2",
+            "parent": "frame",
+            "rotation": -90,
+            "x": -87.25,
+            "y": 447.36,
+            "scaleX": 1.8,
+            "scaleY": 0.7
+          }
+        ],
+        "slots": [
+          {
+            "name": "root",
+            "bone": "frame",
+            "attachment": "root"
+          },
+          {
+            "name": "lightning",
+            "bone": "lightning",
+            "attachment": "lightning_1_y",
+            "blend": "additive"
+          },
+          {
+            "name": "lightning3",
+            "bone": "lightning3",
+            "attachment": "lightning_1_y",
+            "blend": "additive"
+          },
+          {
+            "name": "lightning2",
+            "bone": "lightning2",
+            "attachment": "lightning_1_y",
+            "blend": "additive"
+          },
+          {
+            "name": "lightning4",
+            "bone": "lightning4",
+            "attachment": "lightning_1_y",
+            "blend": "additive"
+          },
+          {
+            "name": "burst",
+            "bone": "burst right",
+            "attachment": "burst",
+            "blend": "additive"
+          },
+          {
+            "name": "burst2",
+            "bone": "burst left",
+            "attachment": "burst",
+            "blend": "additive"
+          },
+          {
+            "name": "star",
+            "bone": "star",
+            "attachment": "star",
+            "blend": "screen"
+          },
+          {
+            "name": "tail",
+            "bone": "tail",
+            "attachment": "tail",
+            "blend": "additive"
+          },
+          {
+            "name": "tail2",
+            "bone": "tail2",
+            "attachment": "tail",
+            "blend": "additive"
+          }
+        ],
+        "skins": [
+          {
+            "name": "default",
+            "attachments": {
+              "burst": {
+                "burst": {
+                  "x": -70.86,
+                  "y": 88.94,
+                  "scaleX": -1,
+                  "width": 373,
+                  "height": 272
+                }
+              },
+              "burst2": {
+                "burst": {
+                  "x": 70.86,
+                  "y": 88.94,
+                  "width": 373,
+                  "height": 272
+                }
+              },
+              "lightning": {
+                "lightning_1_y": {
+                  "y": 323,
+                  "width": 64,
+                  "height": 709
+                },
+                "lightning_2_y": {
+                  "y": 323.5,
+                  "width": 54,
+                  "height": 709
+                },
+                "lightning_3_y": {
+                  "y": 323.5,
+                  "width": 60,
+                  "height": 711
+                },
+                "lightning_4_y": {
+                  "x": 0.5,
+                  "y": 323.5,
+                  "width": 59,
+                  "height": 709
+                }
+              },
+              "lightning2": {
+                "lightning_1_y": {
+                  "y": 323,
+                  "width": 64,
+                  "height": 709
+                },
+                "lightning_2_y": {
+                  "y": 323.5,
+                  "width": 54,
+                  "height": 709
+                },
+                "lightning_3_y": {
+                  "y": 323.5,
+                  "width": 60,
+                  "height": 711
+                },
+                "lightning_4_y": {
+                  "x": 0.5,
+                  "y": 323.5,
+                  "width": 59,
+                  "height": 709
+                }
+              },
+              "lightning3": {
+                "lightning_1_y": {
+                  "y": 323,
+                  "width": 64,
+                  "height": 709
+                },
+                "lightning_2_y": {
+                  "y": 323.5,
+                  "width": 54,
+                  "height": 709
+                },
+                "lightning_3_y": {
+                  "y": 323.5,
+                  "width": 60,
+                  "height": 711
+                },
+                "lightning_4_y": {
+                  "x": 0.5,
+                  "y": 323.5,
+                  "width": 59,
+                  "height": 709
+                }
+              },
+              "lightning4": {
+                "lightning_1_y": {
+                  "y": 323,
+                  "width": 64,
+                  "height": 709
+                },
+                "lightning_2_y": {
+                  "y": 323.5,
+                  "width": 54,
+                  "height": 709
+                },
+                "lightning_3_y": {
+                  "y": 323.5,
+                  "width": 60,
+                  "height": 711
+                },
+                "lightning_4_y": {
+                  "x": 0.5,
+                  "y": 323.5,
+                  "width": 59,
+                  "height": 709
+                }
+              },
+              "root": {
+                "root": {
+                  "type": "clipping",
+                  "end": "root",
+                  "vertexCount": 4,
+                  "color": "ce3a3aff",
+                  "vertices": [
+                    -169.58,
+                    323.72,
+                    167.6,
+                    322.98,
+                    169.63,
+                    -327.13,
+                    -165.6,
+                    -329.12
+                  ]
+                }
+              },
+              "star": {
+                "star": {
+                  "rotation": -90,
+                  "width": 291,
+                  "height": 296
+                }
+              },
+              "tail": {
+                "tail": {
+                  "x": -50.39,
+                  "y": -1.88,
+                  "width": 305,
+                  "height": 177
+                }
+              },
+              "tail2": {
+                "tail": {
+                  "x": -50.39,
+                  "y": -1.88,
+                  "width": 305,
+                  "height": 177
+                }
+              }
+            }
+          }
+        ],
+        "animations": {
+          "idle": {
+            "slots": {
+              "lightning": {
+                "attachment": [
+                  {
+                    "name": "lightning_3_y"
+                  }
+                ]
+              },
+              "lightning3": {
+                "attachment": [
+                  {
+                    "name": "lightning_3_y"
+                  }
+                ]
+              },
+              "tail2": {
+                "attachment": [
+                  {
+                    "name": null
+                  }
+                ]
+              }
+            },
+            "bones": {
+              "frame": {
+                "scale": [
+                  {},
+                  {
+                    "time": 0.1,
+                    "x": 1.2,
+                    "y": 1.2
+                  },
+                  {
+                    "time": 0.1667
+                  }
+                ]
+              }
+            }
+          },
+          "normal": {
+            "slots": {
+              "lightning": {
+                "attachment": [
+                  {
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 0.0667,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 0.1333,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 0.2,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 0.2667,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 0.3333,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 0.4,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 0.4667,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 0.5333,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 0.6,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 0.6667,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 0.7333,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 0.8,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 0.8667,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 0.9333,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 1.0667,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1.1333,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 1.2,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1.2667,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 1.3333,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1.4,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 1.4667,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1.5333,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 1.6,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1.6667,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 1.7333,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1.8,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 1.8667,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1.9333,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 2,
+                    "name": "lightning_3_y"
+                  }
+                ]
+              },
+              "lightning2": {
+                "attachment": [
+                  {
+                    "time": 0.0667,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 0.1333,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 0.2,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 0.2667,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 0.3333,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 0.4,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 0.4667,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 0.5333,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 0.6,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 0.6667,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 0.7333,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 0.8,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 0.8667,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 0.9333,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 1.0667,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1.1333,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 1.2,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1.2667,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 1.3333,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1.4,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 1.4667,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1.5333,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 1.6,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1.6667,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 1.7333,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1.8,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 1.8667,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1.9333,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 2,
+                    "name": "lightning_1_y"
+                  }
+                ]
+              },
+              "lightning3": {
+                "attachment": [
+                  {
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 0.0667,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 0.1333,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 0.2,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 0.2667,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 0.3333,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 0.4,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 0.4667,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 0.5333,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 0.6,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 0.6667,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 0.7333,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 0.8,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 0.8667,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 0.9333,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 1.0667,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1.1333,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 1.2,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1.2667,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 1.3333,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1.4,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 1.4667,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1.5333,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 1.6,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1.6667,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 1.7333,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1.8,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 1.8667,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1.9333,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 2,
+                    "name": "lightning_3_y"
+                  }
+                ]
+              },
+              "lightning4": {
+                "attachment": [
+                  {
+                    "time": 0.0667,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 0.1333,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 0.2,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 0.2667,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 0.3333,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 0.4,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 0.4667,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 0.5333,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 0.6,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 0.6667,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 0.7333,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 0.8,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 0.8667,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 0.9333,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 1.0667,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1.1333,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 1.2,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1.2667,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 1.3333,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1.4,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 1.4667,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1.5333,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 1.6,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1.6667,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 1.7333,
+                    "name": "lightning_3_y"
+                  },
+                  {
+                    "time": 1.8,
+                    "name": "lightning_4_y"
+                  },
+                  {
+                    "time": 1.8667,
+                    "name": "lightning_1_y"
+                  },
+                  {
+                    "time": 1.9333,
+                    "name": "lightning_2_y"
+                  },
+                  {
+                    "time": 2,
+                    "name": "lightning_1_y"
+                  }
+                ]
+              },
+              "tail": {
+                "attachment": [
+                  {
+                    "time": 0.5,
+                    "name": null
+                  },
+                  {
+                    "time": 1,
+                    "name": "tail"
+                  },
+                  {
+                    "time": 1.5,
+                    "name": null
+                  },
+                  {
+                    "time": 2,
+                    "name": "tail"
+                  }
+                ]
+              },
+              "tail2": {
+                "attachment": [
+                  {
+                    "name": null
+                  },
+                  {
+                    "time": 0.5,
+                    "name": "tail"
+                  },
+                  {
+                    "time": 1,
+                    "name": null
+                  },
+                  {
+                    "time": 1.5,
+                    "name": "tail"
+                  },
+                  {
+                    "time": 2,
+                    "name": null
+                  }
+                ]
+              }
+            },
+            "bones": {
+              "burst left": {
+                "shear": [
+                  {
+                    "curve": 0,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 1,
+                    "x": -1,
+                    "y": -12,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 2
+                  }
+                ]
+              },
+              "burst right": {
+                "shear": [
+                  {
+                    "curve": 0,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 1,
+                    "x": 1,
+                    "y": 12,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 2
+                  }
+                ]
+              },
+              "star": {
+                "translate": [
+                  {},
+                  {
+                    "time": 1,
+                    "y": 16.11
+                  },
+                  {
+                    "time": 2
+                  }
+                ],
+                "scale": [
+                  {
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 1,
+                    "x": 1.561,
+                    "y": 1.561,
+                    "curve": 0.25,
+                    "c3": 0.75
+                  },
+                  {
+                    "time": 2
+                  }
+                ]
+              },
+              "tail2": {
+                "translate": [
+                  {
+                    "time": 0.5
+                  },
+                  {
+                    "time": 1,
+                    "y": -763.89,
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 1.4667,
+                    "y": -763.89
+                  },
+                  {
+                    "time": 1.5
+                  },
+                  {
+                    "time": 2,
+                    "y": -763.89
+                  }
+                ]
+              },
+              "tail": {
+                "translate": [
+                  {},
+                  {
+                    "time": 0.5,
+                    "y": -763.9
+                  },
+                  {
+                    "time": 0.9667,
+                    "y": -763.89
+                  },
+                  {
+                    "time": 1
+                  },
+                  {
+                    "time": 1.5,
+                    "y": -763.89,
+                    "curve": "stepped"
+                  },
+                  {
+                    "time": 1.9667,
+                    "y": -763.89
+                  },
+                  {
+                    "time": 2
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      [
+        0
+      ]
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    -1
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,41 @@
+
+Scatter.png
+size: 280,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base_bonus
+  rotate: false
+  xy: 2, 6
+  size: 140, 140
+  orig: 142, 142
+  offset: 1, 1
+  index: -1
+bonus
+  rotate: false
+  xy: 144, 2
+  size: 132, 37
+  orig: 134, 39
+  offset: 1, 1
+  index: -1
+eye
+  rotate: false
+  xy: 251, 75
+  size: 27, 71
+  orig: 29, 73
+  offset: 1, 1
+  index: -1
+eye_base
+  rotate: false
+  xy: 144, 41
+  size: 105, 105
+  orig: 107, 107
+  offset: 1, 1
+  index: -1
+eye_light
+  rotate: false
+  xy: 251, 56
+  size: 21, 17
+  orig: 23, 19
+  offset: 1, 1
+  index: -1
