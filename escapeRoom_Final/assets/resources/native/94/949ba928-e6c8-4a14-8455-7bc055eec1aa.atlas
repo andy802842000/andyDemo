@@ -1,0 +1,376 @@
+
+10000H2.png
+size: 2048,1974
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl__eyebow
+  rotate: false
+  xy: 360, 1935
+  size: 142, 37
+  orig: 145, 39
+  offset: 1, 2
+  index: -1
+girl_accesary_b4
+  rotate: true
+  xy: 513, 1578
+  size: 196, 326
+  orig: 196, 326
+  offset: 0, 0
+  index: -1
+girl_accesary_bl1
+  rotate: true
+  xy: 895, 1886
+  size: 86, 136
+  orig: 86, 136
+  offset: 0, 0
+  index: -1
+girl_accesary_bl2
+  rotate: false
+  xy: 226, 1950
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+girl_accesary_bl3
+  rotate: true
+  xy: 1145, 1882
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+girl_accesary_bl5
+  rotate: false
+  xy: 263, 1588
+  size: 248, 187
+  orig: 270, 235
+  offset: 22, 0
+  index: -1
+girl_accesary_br1
+  rotate: false
+  xy: 1253, 1872
+  size: 109, 100
+  orig: 109, 100
+  offset: 0, 0
+  index: -1
+girl_accesary_br2
+  rotate: false
+  xy: 1033, 1886
+  size: 110, 86
+  orig: 110, 86
+  offset: 0, 0
+  index: -1
+girl_accesary_br3
+  rotate: false
+  xy: 660, 1894
+  size: 233, 78
+  orig: 233, 78
+  offset: 0, 0
+  index: -1
+girl_accesary_w1
+  rotate: false
+  xy: 1066, 1487
+  size: 227, 226
+  orig: 227, 226
+  offset: 0, 0
+  index: -1
+girl_accesary_w2
+  rotate: false
+  xy: 1045, 544
+  size: 368, 352
+  orig: 368, 352
+  offset: 0, 0
+  index: -1
+girl_accesary_w3
+  rotate: true
+  xy: 841, 1509
+  size: 204, 223
+  orig: 212, 229
+  offset: 8, 6
+  index: -1
+girl_accesary_w4
+  rotate: true
+  xy: 1503, 1862
+  size: 110, 359
+  orig: 110, 359
+  offset: 0, 0
+  index: -1
+girl_body
+  rotate: true
+  xy: 1415, 488
+  size: 356, 394
+  orig: 356, 394
+  offset: 0, 0
+  index: -1
+girl_chest1
+  rotate: false
+  xy: 1864, 1830
+  size: 177, 142
+  orig: 177, 142
+  offset: 0, 0
+  index: -1
+girl_chest1-1
+  rotate: false
+  xy: 310, 1940
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+girl_chest2
+  rotate: true
+  xy: 2, 1834
+  size: 121, 186
+  orig: 121, 186
+  offset: 0, 0
+  index: -1
+girl_chest2-1
+  rotate: true
+  xy: 250, 1942
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+girl_eye
+  rotate: false
+  xy: 504, 1923
+  size: 154, 49
+  orig: 154, 49
+  offset: 0, 0
+  index: -1
+girl_face
+  rotate: true
+  xy: 497, 1353
+  size: 223, 276
+  orig: 223, 276
+  offset: 0, 0
+  index: -1
+girl_hair
+  rotate: false
+  xy: 1364, 1868
+  size: 137, 104
+  orig: 137, 104
+  offset: 0, 0
+  index: -1
+girl_hair-5
+  rotate: true
+  xy: 1643, 1441
+  size: 214, 369
+  orig: 214, 369
+  offset: 0, 0
+  index: -1
+girl_hair-6
+  rotate: true
+  xy: 1723, 846
+  size: 357, 323
+  orig: 357, 323
+  offset: 0, 0
+  index: -1
+girl_hair-7
+  rotate: true
+  xy: 1045, 1715
+  size: 155, 275
+  orig: 155, 275
+  offset: 0, 0
+  index: -1
+girl_hair-8
+  rotate: true
+  xy: 1662, 1657
+  size: 203, 183
+  orig: 203, 183
+  offset: 0, 0
+  index: -1
+girl_hair-9
+  rotate: true
+  xy: 313, 1066
+  size: 285, 290
+  orig: 285, 290
+  offset: 0, 0
+  index: -1
+girl_hair1
+  rotate: true
+  xy: 190, 1805
+  size: 128, 208
+  orig: 128, 208
+  offset: 0, 0
+  index: -1
+girl_hair2
+  rotate: true
+  xy: 1490, 1205
+  size: 234, 413
+  orig: 234, 413
+  offset: 0, 0
+  index: -1
+girl_hair3
+  rotate: true
+  xy: 775, 1280
+  size: 227, 278
+  orig: 227, 278
+  offset: 0, 0
+  index: -1
+girl_hair4
+  rotate: true
+  xy: 2, 1619
+  size: 184, 259
+  orig: 184, 259
+  offset: 0, 0
+  index: -1
+girl_hand1
+  rotate: false
+  xy: 2, 364
+  size: 394, 381
+  orig: 394, 381
+  offset: 0, 0
+  index: -1
+girl_hand2
+  rotate: true
+  xy: 2, 747
+  size: 317, 542
+  orig: 317, 546
+  offset: 0, 0
+  index: -1
+girl_leg1-1
+  rotate: true
+  xy: 1055, 1255
+  size: 226, 433
+  orig: 236, 433
+  offset: 10, 0
+  index: -1
+girl_leg1-2
+  rotate: false
+  xy: 2, 1113
+  size: 309, 257
+  orig: 309, 257
+  offset: 0, 0
+  index: -1
+girl_leg2-1
+  rotate: true
+  xy: 932, 2
+  size: 484, 506
+  orig: 484, 506
+  offset: 0, 0
+  index: -1
+girl_leg2-2
+  rotate: true
+  xy: 1322, 1699
+  size: 161, 338
+  orig: 161, 338
+  offset: 0, 0
+  index: -1
+girl_mosaic1
+  rotate: false
+  xy: 400, 1777
+  size: 160, 144
+  orig: 160, 144
+  offset: 0, 0
+  index: -1
+girl_mosaic2
+  rotate: false
+  xy: 883, 1740
+  size: 160, 144
+  orig: 160, 144
+  offset: 0, 0
+  index: -1
+girl_mouth
+  rotate: false
+  xy: 146, 1958
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+man_dick
+  rotate: false
+  xy: 562, 1776
+  size: 319, 116
+  orig: 319, 116
+  offset: 0, 0
+  index: -1
+men_body
+  rotate: false
+  xy: 2, 1372
+  size: 493, 214
+  orig: 493, 215
+  offset: 0, 1
+  index: -1
+men_body2
+  rotate: false
+  xy: 1160, 898
+  size: 561, 305
+  orig: 561, 305
+  offset: 0, 0
+  index: -1
+men_hand
+  rotate: false
+  xy: 398, 276
+  size: 532, 388
+  orig: 532, 388
+  offset: 0, 0
+  index: -1
+men_hand2-1
+  rotate: false
+  xy: 1295, 1483
+  size: 346, 214
+  orig: 346, 214
+  offset: 0, 0
+  index: -1
+men_leg1
+  rotate: false
+  xy: 546, 666
+  size: 497, 321
+  orig: 497, 321
+  offset: 0, 0
+  index: -1
+men_leg2
+  rotate: true
+  xy: 605, 989
+  size: 264, 553
+  orig: 264, 553
+  offset: 0, 0
+  index: -1
+nose1
+  rotate: true
+  xy: 2, 1966
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+semen_1
+  rotate: true
+  xy: 62, 1962
+  size: 10, 58
+  orig: 10, 58
+  offset: 0, 0
+  index: -1
+semen_2
+  rotate: true
+  xy: 16, 1963
+  size: 9, 44
+  orig: 9, 44
+  offset: 0, 0
+  index: -1
+semen_3
+  rotate: true
+  xy: 122, 1962
+  size: 10, 22
+  orig: 10, 23
+  offset: 0, 1
+  index: -1
+semen__4
+  rotate: true
+  xy: 165, 1957
+  size: 15, 59
+  orig: 15, 59
+  offset: 0, 0
+  index: -1
+
+10000H22.png
+size: 1284,724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10000_2_2
+  rotate: false
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1

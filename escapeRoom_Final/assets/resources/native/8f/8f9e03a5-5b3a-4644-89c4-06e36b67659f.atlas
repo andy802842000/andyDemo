@@ -1,0 +1,20 @@
+
+Mirror.png
+size: 650,458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mirror
+  rotate: false
+  xy: 458, 266
+  size: 190, 190
+  orig: 198, 198
+  offset: 4, 4
+  index: -1
+circle
+  rotate: false
+  xy: 2, 2
+  size: 454, 454
+  orig: 454, 454
+  offset: 0, 0
+  index: -1

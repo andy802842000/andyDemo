@@ -1,0 +1,369 @@
+
+10000Norn.png
+size: 2037, 1775
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+arm-down-L01
+  rotate: true
+  xy: 1400, 1693
+  size: 80, 138
+  orig: 80, 138
+  offset: 0, 0
+  index: -1
+arm-down-R01
+  rotate: true
+  xy: 851, 1707
+  size: 66, 136
+  orig: 66, 136
+  offset: 0, 0
+  index: -1
+arm-down-base-L01
+  rotate: true
+  xy: 1540, 1693
+  size: 80, 138
+  orig: 80, 138
+  offset: 0, 0
+  index: -1
+arm-down-base-R01
+  rotate: true
+  xy: 989, 1707
+  size: 66, 136
+  orig: 66, 136
+  offset: 0, 0
+  index: -1
+arm-up-R01
+  rotate: true
+  xy: 1208, 1697
+  size: 76, 190
+  orig: 76, 190
+  offset: 0, 0
+  index: -1
+arm-up-base-L01
+  rotate: true
+  xy: 2, 1720
+  size: 53, 193
+  orig: 53, 193
+  offset: 0, 0
+  index: -1
+back-hair01
+  rotate: false
+  xy: 592, 569
+  size: 414, 335
+  orig: 414, 335
+  offset: 0, 0
+  index: -1
+back-shawl01
+  rotate: false
+  xy: 359, 1612
+  size: 214, 96
+  orig: 215, 96
+  offset: 0, 0
+  index: -1
+body-clothes01
+  rotate: true
+  xy: 919, 1370
+  size: 176, 218
+  orig: 176, 218
+  offset: 0, 0
+  index: -1
+body-skirt01-L01
+  rotate: true
+  xy: 1525, 382
+  size: 440, 475
+  orig: 440, 488
+  offset: 0, 0
+  index: -1
+body-skirt01-M01
+  rotate: true
+  xy: 714, 1153
+  size: 213, 577
+  orig: 213, 577
+  offset: 0, 0
+  index: -1
+body-skirt01-R01
+  rotate: true
+  xy: 1008, 491
+  size: 413, 515
+  orig: 413, 518
+  offset: 0, 0
+  index: -1
+body-skirt02-L02
+  rotate: true
+  xy: 1293, 1102
+  size: 249, 263
+  orig: 249, 263
+  offset: 0, 0
+  index: -1
+body-skirt02-M01
+  rotate: true
+  xy: 259, 1209
+  size: 200, 453
+  orig: 200, 453
+  offset: 0, 0
+  index: -1
+body-skirt02-M02
+  rotate: false
+  xy: 2, 1216
+  size: 255, 233
+  orig: 257, 235
+  offset: 1, 1
+  index: -1
+body-skirt03-L01
+  rotate: false
+  xy: 1542, 824
+  size: 435, 263
+  orig: 435, 263
+  offset: 0, 0
+  index: -1
+body-skirt03-R01
+  rotate: false
+  xy: 1558, 1089
+  size: 421, 245
+  orig: 421, 245
+  offset: 0, 0
+  index: -1
+body-waist01-L01
+  rotate: false
+  xy: 1407, 1353
+  size: 193, 192
+  orig: 193, 192
+  offset: 0, 0
+  index: -1
+body-waist01-R01
+  rotate: true
+  xy: 2, 1478
+  size: 148, 165
+  orig: 148, 165
+  offset: 0, 0
+  index: -1
+body-waist02-L01
+  rotate: true
+  xy: 2, 198
+  size: 369, 596
+  orig: 369, 596
+  offset: 0, 0
+  index: -1
+body-waist02-M01
+  rotate: true
+  xy: 374, 1712
+  size: 61, 80
+  orig: 62, 81
+  offset: 1, 0
+  index: -1
+body-waist02-R01
+  rotate: true
+  xy: 2, 638
+  size: 329, 588
+  orig: 329, 588
+  offset: 0, 0
+  index: -1
+body01
+  rotate: true
+  xy: 434, 1417
+  size: 161, 254
+  orig: 173, 278
+  offset: 12, 0
+  index: -1
+chest-L01
+  rotate: true
+  xy: 255, 1615
+  size: 96, 102
+  orig: 96, 102
+  offset: 0, 0
+  index: -1
+chest-R01
+  rotate: true
+  xy: 1876, 1682
+  size: 91, 106
+  orig: 91, 114
+  offset: 0, 7
+  index: -1
+chest-base-L01
+  rotate: true
+  xy: 1779, 1689
+  size: 84, 95
+  orig: 84, 95
+  offset: 0, 0
+  index: -1
+chest-base-R01
+  rotate: true
+  xy: 1680, 1692
+  size: 81, 97
+  orig: 81, 99
+  offset: 0, 0
+  index: -1
+face01
+  rotate: true
+  xy: 933, 1558
+  size: 147, 149
+  orig: 147, 149
+  offset: 0, 0
+  index: -1
+face02
+  rotate: true
+  xy: 1084, 1548
+  size: 147, 149
+  orig: 147, 149
+  offset: 0, 0
+  index: -1
+face03
+  rotate: true
+  xy: 1235, 1548
+  size: 147, 149
+  orig: 147, 149
+  offset: 0, 0
+  index: -1
+face04
+  rotate: true
+  xy: 1735, 1533
+  size: 147, 149
+  orig: 147, 149
+  offset: 0, 0
+  index: -1
+face05
+  rotate: true
+  xy: 1886, 1533
+  size: 147, 149
+  orig: 147, 149
+  offset: 0, 0
+  index: -1
+front-hair01
+  rotate: false
+  xy: 690, 1411
+  size: 227, 167
+  orig: 227, 167
+  offset: 0, 0
+  index: -1
+front-shawl01
+  rotate: false
+  xy: 169, 1451
+  size: 263, 159
+  orig: 263, 193
+  offset: 0, 34
+  index: -1
+hand-L01
+  rotate: true
+  xy: 456, 1712
+  size: 61, 95
+  orig: 62, 95
+  offset: 0, 0
+  index: -1
+hand-R01
+  rotate: true
+  xy: 660, 1709
+  size: 64, 107
+  orig: 65, 111
+  offset: 0, 4
+  index: -1
+hand-base-L01
+  rotate: true
+  xy: 277, 1713
+  size: 60, 95
+  orig: 62, 95
+  offset: 0, 0
+  index: -1
+hand-base-R01
+  rotate: true
+  xy: 553, 1710
+  size: 63, 105
+  orig: 63, 110
+  offset: 0, 5
+  index: -1
+head-hat01
+  rotate: true
+  xy: 600, 2
+  size: 487, 651
+  orig: 487, 651
+  offset: 0, 0
+  index: -1
+head-ribon-L01
+  rotate: true
+  xy: 1602, 1336
+  size: 195, 266
+  orig: 195, 266
+  offset: 0, 0
+  index: -1
+head-ribon-R01
+  rotate: true
+  xy: 1139, 1368
+  size: 177, 266
+  orig: 177, 266
+  offset: 0, 0
+  index: -1
+hip01
+  rotate: true
+  xy: 650, 906
+  size: 194, 890
+  orig: 194, 890
+  offset: 0, 0
+  index: -1
+nick01
+  rotate: true
+  xy: 197, 1716
+  size: 57, 78
+  orig: 94, 86
+  offset: 11, 3
+  index: -1
+shoes01
+  rotate: true
+  xy: 2, 1628
+  size: 86, 251
+  orig: 86, 251
+  offset: 0, 0
+  index: -1
+side-hair-L01
+  rotate: true
+  xy: 575, 1580
+  size: 125, 356
+  orig: 125, 356
+  offset: 0, 0
+  index: -1
+side-hair-R01
+  rotate: true
+  xy: 1386, 1547
+  size: 143, 347
+  orig: 143, 347
+  offset: 0, 0
+  index: -1
+stocking01
+  rotate: true
+  xy: 2, 969
+  size: 238, 646
+  orig: 239, 647
+  offset: 1, 0
+  index: -1
+waist-ribon-L01
+  rotate: true
+  xy: 1127, 1698
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+waist-ribon-R01
+  rotate: true
+  xy: 769, 1708
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+
+10000Norn_2.png
+size: 1170, 874
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+back-hair-L01
+  rotate: false
+  xy: 2, 2
+  size: 575, 870
+  orig: 575, 870
+  offset: 0, 0
+  index: -1
+back-hair-R01
+  rotate: false
+  xy: 579, 20
+  size: 589, 852
+  orig: 589, 852
+  offset: 0, 0
+  index: -1

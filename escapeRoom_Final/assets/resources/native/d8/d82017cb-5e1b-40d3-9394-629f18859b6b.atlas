@@ -1,0 +1,27 @@
+
+synthesis.png
+size: 1277,878
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circular
+  rotate: true
+  xy: 878, 477
+  size: 399, 397
+  orig: 399, 397
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 874, 874
+  orig: 874, 874
+  offset: 0, 0
+  index: -1
+tailing_1
+  rotate: false
+  xy: 878, 412
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
